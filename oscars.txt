@@ -1,0 +1,7235 @@
+1954
+PICTURE
+
+The Robe
+FALSE
+1942
+ACTRESS
+Bette Davis
+The Little Foxes
+FALSE
+1973
+ACTRESS
+Diana Ross
+Lady Sings the Blues
+FALSE
+1985
+ACTOR
+Albert Finney
+Under the Volcano
+FALSE
+2000
+ACTOR
+Kevin Spacey
+American Beauty
+TRUE
+1953
+ACTRESS
+Shirley Booth
+"Come Back, Little Sheba"
+TRUE
+1989
+ACTRESS
+Jodie Foster
+The Accused
+TRUE
+1930
+ACTOR
+Lawrence Tibbett
+The Rogue Song
+FALSE
+1992
+ACTRESS
+Susan Sarandon
+Thelma & Louise
+FALSE
+2023
+PICTURE
+
+Top Gun: Maverick
+FALSE
+1935
+ACTRESS
+Bette Davis
+Of Human Bondage
+FALSE
+1967
+ACTOR
+Steve McQueen
+The Sand Pebbles
+FALSE
+1976
+ACTOR
+Jack Nicholson
+One Flew over the Cuckoo's Nest
+TRUE
+1998
+ACTRESS
+Helen Hunt
+As Good as It Gets
+TRUE
+2008
+ACTRESS
+Ellen Page
+Juno
+FALSE
+1986
+ACTRESS
+Whoopi Goldberg
+The Color Purple
+FALSE
+2002
+ACTRESS
+Renee Zellweger
+Bridget Jones's Diary
+FALSE
+1995
+ACTOR
+John Travolta
+Pulp Fiction
+FALSE
+1982
+ACTRESS
+Katharine Hepburn
+On Golden Pond
+TRUE
+1995
+ACTRESS
+Jodie Foster
+Nell
+FALSE
+2017
+PICTURE
+
+Arrival
+FALSE
+1964
+PICTURE
+
+Cleopatra
+FALSE
+1978
+ACTRESS
+Marsha Mason
+The Goodbye Girl
+FALSE
+1928
+PICTURE
+
+7th Heaven
+FALSE
+1983
+PICTURE
+
+E.T. The Extra-Terrestrial
+FALSE
+1983
+ACTOR
+Ben Kingsley
+Gandhi
+TRUE
+2018
+ACTOR
+Daniel Kaluuya
+Get Out
+FALSE
+1986
+ACTOR
+Jack Nicholson
+Prizzi's Honor
+FALSE
+1999
+PICTURE
+
+Life Is Beautiful
+FALSE
+1985
+ACTOR
+Jeff Bridges
+Starman
+FALSE
+2014
+PICTURE
+
+American Hustle
+FALSE
+1945
+PICTURE
+
+Double Indemnity
+FALSE
+1975
+ACTRESS
+Valerie Perrine
+Lenny
+FALSE
+1972
+PICTURE
+
+Nicholas and Alexandra
+FALSE
+1958
+PICTURE
+
+Witness for the Prosecution
+FALSE
+1938
+ACTRESS
+Janet Gaynor
+A Star Is Born
+FALSE
+1942
+PICTURE
+
+How Green Was My Valley
+TRUE
+2001
+PICTURE
+
+Gladiator
+TRUE
+1970
+PICTURE
+
+Anne of the Thousand Days
+FALSE
+1994
+PICTURE
+
+The Piano
+FALSE
+1970
+ACTOR
+Jon Voight
+Midnight Cowboy
+FALSE
+2015
+PICTURE
+
+The Imitation Game
+FALSE
+1994
+PICTURE
+
+The Fugitive
+FALSE
+2012
+ACTOR
+Demian Bichir
+A Better Life
+FALSE
+2005
+ACTOR
+Leonardo DiCaprio
+The Aviator
+FALSE
+1977
+PICTURE
+
+Bound for Glory
+FALSE
+1988
+ACTRESS
+Sally Kirkland
+Anna
+FALSE
+1945
+ACTRESS
+Bette Davis
+Mr. Skeffington
+FALSE
+2024
+PICTURE
+
+Anatomy of a Fall
+FALSE
+2014
+ACTOR
+Matthew McConaughey
+Dallas Buyers Club
+TRUE
+1968
+ACTRESS
+Dame Edith Evans
+The Whisperers
+FALSE
+2014
+PICTURE
+
+Nebraska
+FALSE
+1995
+ACTOR
+Paul Newman
+Nobody's Fool
+FALSE
+1964
+ACTOR
+Richard Harris
+This Sporting Life
+FALSE
+1999
+ACTRESS
+Gwyneth Paltrow
+Shakespeare in Love
+TRUE
+1930
+ACTRESS
+Greta Garbo
+Anna Christie
+FALSE
+1929
+PICTURE
+
+The Broadway Melody
+TRUE
+1966
+PICTURE
+
+The Sound of Music
+TRUE
+2005
+ACTOR
+Don Cheadle
+Hotel Rwanda
+FALSE
+1928
+ACTRESS
+Gloria Swanson
+Sadie Thompson
+FALSE
+2011
+ACTRESS
+Nicole Kidman
+Rabbit Hole
+FALSE
+2007
+ACTOR
+Will Smith
+The Pursuit of Happyness
+FALSE
+1990
+ACTRESS
+Isabelle Adjani
+Camille Claudel
+FALSE
+2017
+ACTOR
+Denzel Washington
+Fences
+FALSE
+1972
+PICTURE
+
+The Last Picture Show
+FALSE
+1992
+ACTOR
+Warren Beatty
+Bugsy
+FALSE
+2007
+ACTRESS
+Judi Dench
+Notes on a Scandal
+FALSE
+1949
+ACTRESS
+Barbara Stanwyck
+"Sorry, Wrong Number"
+FALSE
+1961
+ACTRESS
+Deborah Kerr
+The Sundowners
+FALSE
+1943
+ACTOR
+Walter Pidgeon
+Mrs. Miniver
+FALSE
+2023
+ACTOR
+Bill Nighy
+Living
+FALSE
+1960
+ACTOR
+Paul Muni
+The Last Angry Man
+FALSE
+1993
+ACTOR
+Denzel Washington
+Malcolm X
+FALSE
+2024
+ACTOR
+Colman Domingo
+Rustin
+FALSE
+1980
+PICTURE
+
+Kramer vs. Kramer
+TRUE
+1953
+PICTURE
+
+Moulin Rouge
+FALSE
+1961
+ACTRESS
+Shirley MacLaine
+The Apartment
+FALSE
+1956
+ACTRESS
+Eleanor Parker
+Interrupted Melody
+FALSE
+2024
+PICTURE
+
+Oppenheimer
+TRUE
+1931
+ACTRESS
+Ann Harding
+Holiday
+FALSE
+1957
+PICTURE
+
+Giant
+FALSE
+2023
+ACTOR
+Paul Mescal
+Aftersun
+FALSE
+1951
+ACTOR
+Spencer Tracy
+Father of the Bride
+FALSE
+1998
+ACTRESS
+Kate Winslet
+Titanic
+FALSE
+1973
+ACTRESS
+Cicely Tyson
+Sounder
+FALSE
+1970
+ACTRESS
+Maggie Smith
+The Prime of Miss Jean Brodie
+TRUE
+1989
+ACTOR
+Dustin Hoffman
+Rain Man
+TRUE
+2019
+PICTURE
+
+Vice
+FALSE
+1928
+ACTOR
+Richard Barthelmess
+The Noose
+FALSE
+1966
+PICTURE
+
+Doctor Zhivago
+FALSE
+1961
+ACTOR
+Trevor Howard
+Sons and Lovers
+FALSE
+1944
+ACTOR
+Paul Lukas
+Watch on the Rhine
+TRUE
+2003
+ACTRESS
+Julianne Moore
+Far from Heaven
+FALSE
+1942
+ACTRESS
+Olivia de Havilland
+Hold Back the Dawn
+FALSE
+2015
+ACTOR
+Bradley Cooper
+American Sniper
+FALSE
+1957
+ACTOR
+Yul Brynner
+The King and I
+TRUE
+2016
+PICTURE
+
+The Big Short
+FALSE
+1981
+ACTRESS
+Ellen Burstyn
+Resurrection
+FALSE
+1997
+PICTURE
+
+Shine
+FALSE
+1973
+PICTURE
+
+The Godfather
+TRUE
+1984
+PICTURE
+
+Tender Mercies
+FALSE
+1946
+PICTURE
+
+Anchors Aweigh
+FALSE
+1949
+ACTRESS
+Jane Wyman
+Johnny Belinda
+TRUE
+2021
+PICTURE
+
+Minari
+FALSE
+2017
+ACTOR
+Ryan Gosling
+La La Land
+FALSE
+2015
+PICTURE
+
+American Sniper
+FALSE
+2014
+ACTOR
+Christian Bale
+American Hustle
+FALSE
+2022
+ACTOR
+Javier Bardem
+Being the Ricardos
+FALSE
+1987
+PICTURE
+
+Platoon
+TRUE
+1959
+PICTURE
+
+Gigi
+TRUE
+1964
+ACTRESS
+Rachel Roberts
+This Sporting Life
+FALSE
+1946
+ACTRESS
+Jennifer Jones
+Love Letters
+FALSE
+2012
+ACTOR
+George Clooney
+The Descendants
+FALSE
+1987
+ACTOR
+James Woods
+Salvador
+FALSE
+2001
+ACTOR
+Javier Bardem
+Before Night Falls
+FALSE
+2022
+PICTURE
+
+Belfast
+FALSE
+1997
+ACTOR
+Billy Bob Thornton
+Sling Blade
+FALSE
+1950
+PICTURE
+
+The Heiress
+FALSE
+1930
+ACTOR
+George Arliss
+The Green Goddess
+FALSE
+1994
+ACTOR
+Liam Neeson
+Schindler's List
+FALSE
+1987
+ACTRESS
+Sigourney Weaver
+Aliens
+FALSE
+2003
+ACTRESS
+Salma Hayek
+Frida
+FALSE
+1939
+ACTOR
+Leslie Howard
+Pygmalion
+FALSE
+2017
+PICTURE
+
+Lion
+FALSE
+2017
+ACTRESS
+Emma Stone
+La La Land
+TRUE
+1963
+ACTRESS
+Katharine Hepburn
+Long Day's Journey into Night
+FALSE
+2024
+PICTURE
+
+American Fiction
+FALSE
+2024
+PICTURE
+
+Past Lives
+FALSE
+1984
+ACTOR
+Michael Caine
+Educating Rita
+FALSE
+1987
+PICTURE
+
+A Room with a View
+FALSE
+2014
+PICTURE
+
+Dallas Buyers Club
+FALSE
+1950
+ACTOR
+John Wayne
+Sands of Iwo Jima
+FALSE
+2012
+ACTRESS
+Rooney Mara
+The Girl with the Dragon Tattoo
+FALSE
+1992
+PICTURE
+
+Beauty and the Beast
+FALSE
+1982
+ACTOR
+Dudley Moore
+Arthur
+FALSE
+1942
+PICTURE
+
+The Little Foxes
+FALSE
+2021
+ACTRESS
+Frances McDormand
+Nomadland
+TRUE
+1954
+ACTOR
+Burt Lancaster
+From Here to Eternity
+FALSE
+1961
+PICTURE
+
+The Sundowners
+FALSE
+2011
+PICTURE
+
+Inception
+FALSE
+2019
+PICTURE
+
+Roma
+FALSE
+1990
+ACTOR
+Tom Cruise
+Born on the Fourth of July
+FALSE
+1988
+ACTOR
+Jack Nicholson
+Ironweed
+FALSE
+2022
+PICTURE
+
+King Richard
+FALSE
+1958
+PICTURE
+
+Peyton Place
+FALSE
+1959
+ACTOR
+Paul Newman
+Cat on a Hot Tin Roof
+FALSE
+2016
+ACTOR
+Matt Damon
+The Martian
+FALSE
+1967
+PICTURE
+
+The Russians Are Coming The Russians Are Coming
+FALSE
+1947
+ACTOR
+James Stewart
+It's a Wonderful Life
+FALSE
+1963
+ACTRESS
+Geraldine Page
+Sweet Bird of Youth
+FALSE
+2005
+PICTURE
+
+The Aviator
+FALSE
+1990
+ACTRESS
+Jessica Lange
+Music Box
+FALSE
+1976
+ACTOR
+Walter Matthau
+The Sunshine Boys
+FALSE
+2003
+PICTURE
+
+Gangs of New York
+FALSE
+1990
+ACTOR
+Morgan Freeman
+Driving Miss Daisy
+FALSE
+2015
+ACTOR
+Eddie Redmayne
+The Theory of Everything
+TRUE
+1944
+PICTURE
+
+In Which We Serve
+FALSE
+1979
+ACTOR
+Jon Voight
+Coming Home
+TRUE
+1976
+PICTURE
+
+One Flew over the Cuckoo's Nest
+TRUE
+2010
+PICTURE
+
+Up in the Air
+FALSE
+1984
+PICTURE
+
+The Big Chill
+FALSE
+1980
+ACTRESS
+Jill Clayburgh
+Starting Over
+FALSE
+1982
+PICTURE
+
+On Golden Pond
+FALSE
+2013
+PICTURE
+
+Argo
+TRUE
+1948
+ACTRESS
+Rosalind Russell
+Mourning Becomes Electra
+FALSE
+1992
+ACTRESS
+Jodie Foster
+The Silence of the Lambs
+TRUE
+1940
+ACTRESS
+Bette Davis
+Dark Victory
+FALSE
+1965
+ACTOR
+Anthony Quinn
+Zorba the Greek
+FALSE
+2012
+ACTRESS
+Meryl Streep
+The Iron Lady
+TRUE
+1974
+ACTRESS
+Barbra Streisand
+The Way We Were
+FALSE
+1943
+PICTURE
+
+Kings Row
+FALSE
+1997
+PICTURE
+
+Jerry Maguire
+FALSE
+2009
+PICTURE
+
+The Reader
+FALSE
+2009
+ACTRESS
+Melissa Leo
+Frozen River
+FALSE
+1945
+ACTOR
+Charles Boyer
+Gaslight
+FALSE
+1999
+ACTRESS
+Meryl Streep
+One True Thing
+FALSE
+1949
+PICTURE
+
+Hamlet
+TRUE
+1995
+ACTRESS
+Miranda Richardson
+Tom & Viv
+FALSE
+1942
+ACTOR
+Robert Montgomery
+Here Comes Mr. Jordan
+FALSE
+1943
+PICTURE
+
+Yankee Doodle Dandy
+FALSE
+2007
+PICTURE
+
+Babel
+FALSE
+1997
+ACTRESS
+Frances McDormand
+Fargo
+TRUE
+1939
+ACTOR
+Robert Donat
+The Citadel
+FALSE
+1995
+ACTRESS
+Susan Sarandon
+The Client
+FALSE
+1966
+ACTRESS
+Simone Signoret
+Ship of Fools
+FALSE
+1971
+ACTRESS
+Sarah Miles
+Ryan's Daughter
+FALSE
+1991
+ACTOR
+Richard Harris
+The Field
+FALSE
+1980
+ACTRESS
+Sally Field
+Norma Rae
+TRUE
+1967
+PICTURE
+
+Alfie
+FALSE
+2002
+PICTURE
+
+Gosford Park
+FALSE
+1986
+ACTRESS
+Meryl Streep
+Out of Africa
+FALSE
+1942
+PICTURE
+
+Citizen Kane
+FALSE
+1967
+ACTOR
+Michael Caine
+Alfie
+FALSE
+1942
+PICTURE
+
+One Foot in Heaven
+FALSE
+1931
+ACTRESS
+Marlene Dietrich
+Morocco
+FALSE
+1973
+ACTRESS
+Liv Ullmann
+The Emigrants
+FALSE
+1973
+PICTURE
+
+Sounder
+FALSE
+1947
+PICTURE
+
+The Best Years of Our Lives
+TRUE
+2012
+PICTURE
+
+The Artist
+TRUE
+1950
+ACTRESS
+Loretta Young
+Come to the Stable
+FALSE
+1952
+PICTURE
+
+An American in Paris
+TRUE
+2022
+PICTURE
+
+Drive My Car
+FALSE
+1942
+PICTURE
+
+The Maltese Falcon
+FALSE
+2013
+ACTOR
+Hugh Jackman
+Les Miserables
+FALSE
+2013
+PICTURE
+
+Silver Linings Playbook
+FALSE
+2013
+ACTRESS
+Emmanuelle Riva
+Amour
+FALSE
+1974
+ACTOR
+Marlon Brando
+Last Tango in Paris
+FALSE
+2010
+PICTURE
+
+District 9
+FALSE
+2013
+ACTOR
+Bradley Cooper
+Silver Linings Playbook
+FALSE
+1988
+ACTOR
+Marcello Mastroianni
+Dark Eyes
+FALSE
+1975
+PICTURE
+
+Chinatown
+FALSE
+2020
+PICTURE
+
+Parasite
+TRUE
+2007
+ACTRESS
+Kate Winslet
+Little Children
+FALSE
+1959
+ACTOR
+Spencer Tracy
+The Old Man and the Sea
+FALSE
+1977
+ACTRESS
+Talia Shire
+Rocky
+FALSE
+1978
+ACTRESS
+Anne Bancroft
+The Turning Point
+FALSE
+1956
+ACTOR
+James Cagney
+Love Me or Leave Me
+FALSE
+1983
+ACTOR
+Jack Lemmon
+Missing
+FALSE
+1960
+ACTRESS
+Doris Day
+Pillow Talk
+FALSE
+2009
+ACTRESS
+Angelina Jolie
+Changeling
+FALSE
+1984
+ACTRESS
+Shirley MacLaine
+Terms of Endearment
+TRUE
+2000
+ACTRESS
+Janet McTeer
+Tumbleweeds
+FALSE
+1962
+ACTOR
+Maximilian Schell
+Judgment at Nuremberg
+TRUE
+2019
+ACTRESS
+Olivia Colman
+The Favourite
+TRUE
+1940
+ACTRESS
+Irene Dunne
+Love Affair
+FALSE
+1944
+PICTURE
+
+For Whom the Bell Tolls
+FALSE
+1995
+ACTOR
+Morgan Freeman
+The Shawshank Redemption
+FALSE
+1965
+ACTRESS
+Anne Bancroft
+The Pumpkin Eater
+FALSE
+1959
+PICTURE
+
+Separate Tables
+FALSE
+1984
+ACTOR
+Tom Conti
+"Reuben, Reuben"
+FALSE
+1994
+ACTOR
+Anthony Hopkins
+The Remains of the Day
+FALSE
+1956
+ACTOR
+Frank Sinatra
+The Man with the Golden Arm
+FALSE
+2009
+ACTOR
+Sean Penn
+Milk
+TRUE
+1979
+ACTRESS
+Geraldine Page
+Interiors
+FALSE
+1940
+ACTOR
+Laurence Olivier
+Wuthering Heights
+FALSE
+2020
+ACTOR
+Joaquin Phoenix
+Joker
+TRUE
+1972
+ACTOR
+George C. Scott
+The Hospital
+FALSE
+1985
+ACTRESS
+Sissy Spacek
+The River
+FALSE
+2006
+PICTURE
+
+Crash
+TRUE
+2024
+ACTOR
+Bradley Cooper
+Maestro
+FALSE
+1993
+ACTOR
+Stephen Rea
+The Crying Game
+FALSE
+1959
+ACTRESS
+Shirley MacLaine
+Some Came Running
+FALSE
+1993
+PICTURE
+
+The Crying Game
+FALSE
+1945
+ACTRESS
+Greer Garson
+Mrs. Parkington
+FALSE
+1975
+PICTURE
+
+The Towering Inferno
+FALSE
+1968
+ACTOR
+Spencer Tracy
+Guess Who's Coming to Dinner
+FALSE
+1935
+ACTOR
+Frank Morgan
+The Affairs of Cellini
+FALSE
+2024
+ACTRESS
+Carey Mulligan
+Maestro
+FALSE
+1962
+PICTURE
+
+The Hustler
+FALSE
+1982
+ACTRESS
+Marsha Mason
+Only When I Laugh
+FALSE
+2022
+ACTOR
+Denzel Washington
+The Tragedy of Macbeth
+FALSE
+2002
+PICTURE
+
+In the Bedroom
+FALSE
+1966
+ACTOR
+Laurence Olivier
+Othello
+FALSE
+2005
+ACTRESS
+Kate Winslet
+Eternal Sunshine of the Spotless Mind
+FALSE
+1996
+ACTRESS
+Elisabeth Shue
+Leaving Las Vegas
+FALSE
+1956
+PICTURE
+
+Mister Roberts
+FALSE
+1940
+ACTRESS
+Vivien Leigh
+Gone with the Wind
+TRUE
+1994
+PICTURE
+
+Schindler's List
+TRUE
+1956
+PICTURE
+
+Love Is a Many-Splendored Thing
+FALSE
+1962
+ACTRESS
+Audrey Hepburn
+Breakfast at Tiffany's
+FALSE
+2018
+PICTURE
+
+The Post
+FALSE
+1983
+PICTURE
+
+The Verdict
+FALSE
+1965
+ACTRESS
+Debbie Reynolds
+The Unsinkable Molly Brown
+FALSE
+1980
+ACTRESS
+Marsha Mason
+Chapter Two
+FALSE
+2002
+ACTOR
+Russell Crowe
+A Beautiful Mind
+FALSE
+1993
+ACTRESS
+Michelle Pfeiffer
+Love Field
+FALSE
+1987
+ACTOR
+Paul Newman
+The Color of Money
+TRUE
+2024
+ACTOR
+Cillian Murphy
+Oppenheimer
+TRUE
+1959
+ACTRESS
+Elizabeth Taylor
+Cat on a Hot Tin Roof
+FALSE
+1938
+ACTOR
+Robert Montgomery
+Night Must Fall
+FALSE
+1994
+ACTOR
+Tom Hanks
+Philadelphia
+TRUE
+1966
+ACTOR
+Richard Burton
+The Spy Who Came In from the Cold
+FALSE
+2020
+PICTURE
+
+Joker
+FALSE
+1946
+ACTRESS
+Joan Crawford
+Mildred Pierce
+TRUE
+1972
+ACTRESS
+Glenda Jackson
+Sunday Bloody Sunday
+FALSE
+1964
+ACTOR
+Albert Finney
+Tom Jones
+FALSE
+2020
+ACTRESS
+Charlize Theron
+Bombshell
+FALSE
+2016
+PICTURE
+
+Brooklyn
+FALSE
+1996
+ACTOR
+Sean Penn
+Dead Man Walking
+FALSE
+1946
+ACTOR
+Ray Milland
+The Lost Weekend
+TRUE
+1966
+PICTURE
+
+A Thousand Clowns
+FALSE
+1960
+ACTRESS
+Katharine Hepburn
+"Suddenly, Last Summer"
+FALSE
+1992
+PICTURE
+
+JFK
+FALSE
+2010
+PICTURE
+
+Up
+FALSE
+1975
+ACTRESS
+Ellen Burstyn
+Alice Doesn't Live Here Anymore
+TRUE
+2005
+ACTRESS
+Hilary Swank
+Million Dollar Baby
+TRUE
+1944
+ACTOR
+Mickey Rooney
+The Human Comedy
+FALSE
+1956
+ACTRESS
+Anna Magnani
+The Rose Tattoo
+TRUE
+1944
+PICTURE
+
+Madame Curie
+FALSE
+1943
+PICTURE
+
+Mrs. Miniver
+TRUE
+1963
+PICTURE
+
+Mutiny on the Bounty
+FALSE
+1980
+PICTURE
+
+All That Jazz
+FALSE
+2017
+ACTRESS
+Meryl Streep
+Florence Foster Jenkins
+FALSE
+1976
+ACTRESS
+Glenda Jackson
+Hedda
+FALSE
+2013
+ACTOR
+Denzel Washington
+Flight
+FALSE
+1996
+PICTURE
+
+The Postman (Il Postino)
+FALSE
+2021
+ACTRESS
+Andra Day
+The United States vs. Billie Holiday
+FALSE
+1994
+PICTURE
+
+In the Name of the Father
+FALSE
+1990
+PICTURE
+
+Born on the Fourth of July
+FALSE
+1968
+ACTRESS
+Anne Bancroft
+The Graduate
+FALSE
+1961
+PICTURE
+
+The Apartment
+TRUE
+1960
+ACTRESS
+Simone Signoret
+Room at the Top
+TRUE
+1933
+ACTOR
+Paul Muni
+I Am a Fugitive from a Chain Gang
+FALSE
+2010
+ACTOR
+Jeremy Renner
+The Hurt Locker
+FALSE
+1974
+ACTRESS
+Glenda Jackson
+A Touch of Class
+TRUE
+1995
+ACTRESS
+Jessica Lange
+Blue Sky
+TRUE
+1949
+ACTRESS
+Ingrid Bergman
+Joan of Arc
+FALSE
+1978
+ACTOR
+Richard Burton
+Equus
+FALSE
+2000
+ACTOR
+Russell Crowe
+The Insider
+FALSE
+2018
+ACTRESS
+Sally Hawkins
+The Shape of Water
+FALSE
+1929
+ACTOR
+Chester Morris
+Alibi
+FALSE
+1970
+ACTRESS
+Jean Simmons
+The Happy Ending
+FALSE
+1968
+PICTURE
+
+Guess Who's Coming to Dinner
+FALSE
+1972
+ACTOR
+Peter Finch
+Sunday Bloody Sunday
+FALSE
+1978
+ACTOR
+Woody Allen
+Annie Hall
+FALSE
+1957
+ACTRESS
+Nancy Kelly
+The Bad Seed
+FALSE
+1955
+PICTURE
+
+On the Waterfront
+TRUE
+2006
+PICTURE
+
+"Good Night, and Good Luck."
+FALSE
+2012
+ACTOR
+Brad Pitt
+Moneyball
+FALSE
+2020
+PICTURE
+
+The Irishman
+FALSE
+1978
+ACTOR
+Richard Dreyfuss
+The Goodbye Girl
+TRUE
+1937
+ACTOR
+Walter Huston
+Dodsworth
+FALSE
+1998
+PICTURE
+
+As Good as It Gets
+FALSE
+2000
+PICTURE
+
+The Cider House Rules
+FALSE
+1999
+ACTRESS
+Emily Watson
+Hilary and Jackie
+FALSE
+2019
+PICTURE
+
+Bohemian Rhapsody
+FALSE
+1972
+ACTRESS
+Julie Christie
+McCabe & Mrs. Miller
+FALSE
+1981
+PICTURE
+
+Coal Miner's Daughter
+FALSE
+1929
+PICTURE
+
+In Old Arizona
+FALSE
+2016
+ACTRESS
+Charlotte Rampling
+45 Years
+FALSE
+1964
+ACTRESS
+Natalie Wood
+Love with the Proper Stranger
+FALSE
+2023
+ACTOR
+Brendan Fraser
+The Whale
+TRUE
+1948
+ACTRESS
+Susan Hayward
+Smash-Up--The Story of a Woman
+FALSE
+2007
+ACTOR
+Ryan Gosling
+Half Nelson
+FALSE
+1933
+ACTRESS
+May Robson
+Lady for a Day
+FALSE
+1966
+ACTOR
+Rod Steiger
+The Pawnbroker
+FALSE
+1966
+ACTRESS
+Julie Christie
+Darling
+TRUE
+2014
+ACTOR
+Leonardo DiCaprio
+The Wolf of Wall Street
+FALSE
+1973
+PICTURE
+
+Cabaret
+FALSE
+1952
+PICTURE
+
+Quo Vadis
+FALSE
+1971
+ACTRESS
+Glenda Jackson
+Women in Love
+TRUE
+1983
+ACTOR
+Dustin Hoffman
+Tootsie
+FALSE
+1959
+ACTOR
+Sidney Poitier
+The Defiant Ones
+FALSE
+1943
+PICTURE
+
+Wake Island
+FALSE
+1980
+ACTRESS
+Bette Midler
+The Rose
+FALSE
+1973
+ACTOR
+Marlon Brando
+The Godfather
+TRUE
+1962
+PICTURE
+
+Judgment at Nuremberg
+FALSE
+1981
+ACTOR
+Robert De Niro
+Raging Bull
+TRUE
+1979
+PICTURE
+
+An Unmarried Woman
+FALSE
+2002
+ACTOR
+Tom Wilkinson
+In the Bedroom
+FALSE
+1978
+PICTURE
+
+Star Wars
+FALSE
+2006
+ACTOR
+Terrence Howard
+Hustle & Flow
+FALSE
+1952
+ACTRESS
+Eleanor Parker
+Detective Story
+FALSE
+2002
+PICTURE
+
+A Beautiful Mind
+TRUE
+2020
+PICTURE
+
+Ford v Ferrari
+FALSE
+2010
+ACTOR
+Colin Firth
+A Single Man
+FALSE
+1974
+PICTURE
+
+Cries and Whispers
+FALSE
+1931
+ACTRESS
+Marie Dressler
+Min and Bill
+TRUE
+1987
+ACTRESS
+Jane Fonda
+The Morning After
+FALSE
+1982
+ACTOR
+Henry Fonda
+On Golden Pond
+TRUE
+2016
+PICTURE
+
+The Martian
+FALSE
+2013
+ACTRESS
+Jennifer Lawrence
+Silver Linings Playbook
+TRUE
+1986
+ACTRESS
+Anne Bancroft
+Agnes of God
+FALSE
+1960
+PICTURE
+
+Room at the Top
+FALSE
+1991
+ACTRESS
+Julia Roberts
+Pretty Woman
+FALSE
+2001
+ACTOR
+Geoffrey Rush
+Quills
+FALSE
+1970
+ACTOR
+Richard Burton
+Anne of the Thousand Days
+FALSE
+1956
+PICTURE
+
+Marty
+TRUE
+1992
+ACTRESS
+Bette Midler
+For the Boys
+FALSE
+2011
+PICTURE
+
+The Kids Are All Right
+FALSE
+1984
+ACTOR
+Tom Courtenay
+The Dresser
+FALSE
+2013
+PICTURE
+
+Les Miserables
+FALSE
+1946
+PICTURE
+
+The Lost Weekend
+TRUE
+2013
+ACTRESS
+Quvenzhane Wallis
+Beasts of the Southern Wild
+FALSE
+1996
+ACTRESS
+Meryl Streep
+The Bridges of Madison County
+FALSE
+1941
+ACTRESS
+Bette Davis
+The Letter
+FALSE
+1930
+ACTOR
+George Arliss
+Disraeli
+TRUE
+2014
+ACTRESS
+Cate Blanchett
+Blue Jasmine
+TRUE
+2022
+PICTURE
+
+Dune
+FALSE
+1990
+PICTURE
+
+Dead Poets Society
+FALSE
+1997
+PICTURE
+
+Secrets & Lies
+FALSE
+1975
+PICTURE
+
+The Conversation
+FALSE
+1936
+ACTOR
+Victor McLaglen
+The Informer
+TRUE
+2012
+PICTURE
+
+The Tree of Life
+FALSE
+1969
+ACTRESS
+Joanne Woodward
+"Rachel, Rachel"
+FALSE
+1968
+ACTRESS
+Audrey Hepburn
+Wait until Dark
+FALSE
+2005
+PICTURE
+
+Million Dollar Baby
+TRUE
+1992
+PICTURE
+
+The Prince of Tides
+FALSE
+1991
+ACTRESS
+Meryl Streep
+Postcards from the Edge
+FALSE
+2006
+PICTURE
+
+Capote
+FALSE
+1953
+ACTRESS
+Julie Harris
+The Member of the Wedding
+FALSE
+1969
+ACTRESS
+Vanessa Redgrave
+Isadora
+FALSE
+1962
+PICTURE
+
+Fanny
+FALSE
+2012
+PICTURE
+
+The Descendants
+FALSE
+2001
+ACTRESS
+Ellen Burstyn
+Requiem for a Dream
+FALSE
+2022
+ACTRESS
+Nicole Kidman
+Being the Ricardos
+FALSE
+1942
+PICTURE
+
+Sergeant York
+FALSE
+1993
+PICTURE
+
+Howards End
+FALSE
+2016
+ACTOR
+Michael Fassbender
+Steve Jobs
+FALSE
+2016
+ACTRESS
+Saoirse Ronan
+Brooklyn
+FALSE
+2014
+PICTURE
+
+Gravity
+FALSE
+1929
+ACTOR
+Warner Baxter
+In Old Arizona
+TRUE
+1950
+ACTOR
+Richard Todd
+The Hasty Heart
+FALSE
+1943
+PICTURE
+
+The Pied Piper
+FALSE
+1955
+PICTURE
+
+Three Coins in the Fountain
+FALSE
+2010
+ACTRESS
+Meryl Streep
+Julie & Julia
+FALSE
+1971
+ACTOR
+George C. Scott
+Patton
+TRUE
+2021
+PICTURE
+
+Nomadland
+TRUE
+1973
+ACTOR
+Paul Winfield
+Sounder
+FALSE
+2020
+PICTURE
+
+1917
+FALSE
+1968
+ACTRESS
+Faye Dunaway
+Bonnie and Clyde
+FALSE
+1936
+ACTRESS
+Elisabeth Bergner
+Escape Me Never
+FALSE
+2018
+PICTURE
+
+Darkest Hour
+FALSE
+2004
+PICTURE
+
+Mystic River
+FALSE
+2011
+ACTOR
+Javier Bardem
+Biutiful
+FALSE
+1968
+PICTURE
+
+Bonnie and Clyde
+FALSE
+1952
+ACTOR
+Marlon Brando
+A Streetcar Named Desire
+FALSE
+2004
+ACTOR
+Johnny Depp
+Pirates of the Caribbean: The Curse of the Black Pearl
+FALSE
+1986
+ACTOR
+Harrison Ford
+Witness
+FALSE
+2017
+PICTURE
+
+Hidden Figures
+FALSE
+2020
+PICTURE
+
+Marriage Story
+FALSE
+1953
+ACTOR
+Jose Ferrer
+Moulin Rouge
+FALSE
+1987
+PICTURE
+
+The Mission
+FALSE
+1957
+ACTRESS
+Katharine Hepburn
+The Rainmaker
+FALSE
+1959
+ACTOR
+David Niven
+Separate Tables
+TRUE
+1995
+ACTOR
+Tom Hanks
+Forrest Gump
+TRUE
+1960
+ACTOR
+James Stewart
+Anatomy of a Murder
+FALSE
+1988
+PICTURE
+
+Fatal Attraction
+FALSE
+1985
+ACTOR
+Sam Waterston
+The Killing Fields
+FALSE
+1978
+ACTRESS
+Diane Keaton
+Annie Hall
+TRUE
+1953
+ACTRESS
+Bette Davis
+The Star
+FALSE
+1979
+ACTRESS
+Jane Fonda
+Coming Home
+TRUE
+1977
+ACTOR
+Peter Finch
+Network
+TRUE
+1972
+ACTOR
+Walter Matthau
+Kotch
+FALSE
+1952
+PICTURE
+
+A Place in the Sun
+FALSE
+1982
+PICTURE
+
+Atlantic City
+FALSE
+1990
+ACTOR
+Kenneth Branagh
+Henry V
+FALSE
+2023
+ACTRESS
+Michelle Williams
+The Fabelmans
+FALSE
+2012
+ACTOR
+Gary Oldman
+Tinker Tailor Soldier Spy
+FALSE
+2023
+PICTURE
+
+Avatar: The Way of Water
+FALSE
+2003
+ACTOR
+Jack Nicholson
+About Schmidt
+FALSE
+1945
+ACTOR
+Barry Fitzgerald
+Going My Way
+FALSE
+1943
+ACTOR
+James Cagney
+Yankee Doodle Dandy
+TRUE
+1976
+PICTURE
+
+Jaws
+FALSE
+1982
+ACTOR
+Paul Newman
+Absence of Malice
+FALSE
+1972
+PICTURE
+
+A Clockwork Orange
+FALSE
+1953
+ACTOR
+Alec Guinness
+The Lavender Hill Mob
+FALSE
+2023
+PICTURE
+
+All Quiet on the Western Front
+FALSE
+1936
+ACTRESS
+Claudette Colbert
+Private Worlds
+FALSE
+1942
+PICTURE
+
+Blossoms in the Dust
+FALSE
+2019
+PICTURE
+
+A Star Is Born
+FALSE
+1935
+ACTRESS
+Grace Moore
+One Night of Love
+FALSE
+1948
+ACTOR
+Michael Redgrave
+Mourning Becomes Electra
+FALSE
+1965
+PICTURE
+
+Becket
+FALSE
+1988
+ACTOR
+Robin Williams
+"Good Morning, Vietnam"
+FALSE
+1935
+ACTOR
+William Powell
+The Thin Man
+FALSE
+1995
+PICTURE
+
+Quiz Show
+FALSE
+1969
+ACTOR
+Peter O'Toole
+The Lion in Winter
+FALSE
+1949
+ACTRESS
+Irene Dunne
+I Remember Mama
+FALSE
+1950
+ACTRESS
+Olivia de Havilland
+The Heiress
+TRUE
+2020
+ACTOR
+Jonathan Pryce
+The Two Popes
+FALSE
+2023
+PICTURE
+
+The Banshees of Inisherin
+FALSE
+1956
+PICTURE
+
+Picnic
+FALSE
+1962
+ACTOR
+Paul Newman
+The Hustler
+FALSE
+1950
+PICTURE
+
+A Letter to Three Wives
+FALSE
+1944
+ACTRESS
+Jean Arthur
+The More the Merrier
+FALSE
+1997
+ACTOR
+Ralph Fiennes
+The English Patient
+FALSE
+2015
+ACTOR
+Benedict Cumberbatch
+The Imitation Game
+FALSE
+1955
+PICTURE
+
+The Caine Mutiny
+FALSE
+2024
+PICTURE
+
+Maestro
+FALSE
+1971
+ACTRESS
+Carrie Snodgress
+Diary of a Mad Housewife
+FALSE
+1971
+ACTOR
+Ryan O'Neal
+Love Story
+FALSE
+2015
+PICTURE
+
+The Grand Budapest Hotel
+FALSE
+1981
+ACTRESS
+Gena Rowlands
+Gloria
+FALSE
+2022
+ACTRESS
+Kristen Stewart
+Spencer
+FALSE
+1940
+ACTRESS
+Greta Garbo
+Ninotchka
+FALSE
+2007
+ACTOR
+Peter O'Toole
+Venus
+FALSE
+2015
+PICTURE
+
+The Theory of Everything
+FALSE
+1960
+ACTOR
+Laurence Harvey
+Room at the Top
+FALSE
+1932
+ACTRESS
+Helen Hayes
+The Sin of Madelon Claudet
+TRUE
+1965
+PICTURE
+
+My Fair Lady
+TRUE
+1967
+PICTURE
+
+Who's Afraid of Virginia Woolf?
+FALSE
+2015
+ACTRESS
+Felicity Jones
+The Theory of Everything
+FALSE
+1944
+PICTURE
+
+Watch on the Rhine
+FALSE
+1955
+ACTOR
+Marlon Brando
+On the Waterfront
+TRUE
+1943
+PICTURE
+
+The Magnificent Ambersons
+FALSE
+1990
+ACTRESS
+Jessica Tandy
+Driving Miss Daisy
+TRUE
+2022
+PICTURE
+
+West Side Story
+FALSE
+1999
+ACTRESS
+Cate Blanchett
+Elizabeth
+FALSE
+1943
+ACTOR
+Monty Woolley
+The Pied Piper
+FALSE
+1966
+ACTRESS
+Elizabeth Hartman
+A Patch of Blue
+FALSE
+1938
+ACTRESS
+Barbara Stanwyck
+Stella Dallas
+FALSE
+2003
+ACTOR
+Nicolas Cage
+Adaptation
+FALSE
+2003
+ACTRESS
+Nicole Kidman
+The Hours
+TRUE
+2006
+ACTOR
+David Strathairn
+"Good Night, and Good Luck."
+FALSE
+2011
+ACTOR
+James Franco
+127 Hours
+FALSE
+1951
+ACTOR
+Jose Ferrer
+Cyrano de Bergerac
+TRUE
+1952
+ACTRESS
+Jane Wyman
+The Blue Veil
+FALSE
+1984
+ACTRESS
+Meryl Streep
+Silkwood
+FALSE
+1987
+ACTOR
+Dexter Gordon
+'Round Midnight
+FALSE
+1984
+ACTRESS
+Debra Winger
+Terms of Endearment
+FALSE
+1987
+PICTURE
+
+Children of a Lesser God
+FALSE
+1967
+ACTRESS
+Ida Kaminska
+The Shop on Main Street
+FALSE
+2022
+ACTRESS
+Jessica Chastain
+The Eyes of Tammy Faye
+TRUE
+1953
+ACTOR
+Marlon Brando
+Viva Zapata!
+FALSE
+1969
+ACTRESS
+Patricia Neal
+The Subject Was Roses
+FALSE
+2019
+PICTURE
+
+Green Book
+TRUE
+1953
+PICTURE
+
+The Quiet Man
+FALSE
+1963
+PICTURE
+
+The Longest Day
+FALSE
+1986
+PICTURE
+
+Witness
+FALSE
+1996
+PICTURE
+
+Braveheart
+TRUE
+1945
+PICTURE
+
+Gaslight
+FALSE
+1978
+ACTRESS
+Shirley MacLaine
+The Turning Point
+FALSE
+1962
+ACTRESS
+Natalie Wood
+Splendor in the Grass
+FALSE
+1937
+ACTRESS
+Norma Shearer
+Romeo and Juliet
+FALSE
+1931
+ACTRESS
+Norma Shearer
+A Free Soul
+FALSE
+1945
+PICTURE
+
+Since You Went Away
+FALSE
+2001
+PICTURE
+
+Traffic
+FALSE
+1969
+ACTRESS
+Barbra Streisand
+Funny Girl
+TRUE
+1975
+PICTURE
+
+The Godfather Part II
+TRUE
+1946
+ACTRESS
+Greer Garson
+The Valley of Decision
+FALSE
+1982
+ACTRESS
+Diane Keaton
+Reds
+FALSE
+1999
+ACTOR
+Edward Norton
+American History X
+FALSE
+2008
+ACTRESS
+Marion Cotillard
+La Vie en Rose
+TRUE
+1935
+ACTRESS
+Norma Shearer
+The Barretts of Wimpole Street
+FALSE
+2017
+PICTURE
+
+Hacksaw Ridge
+FALSE
+2014
+ACTRESS
+Sandra Bullock
+Gravity
+FALSE
+2012
+PICTURE
+
+Extremely Loud & Incredibly Close
+FALSE
+1988
+ACTRESS
+Holly Hunter
+Broadcast News
+FALSE
+2006
+ACTOR
+Heath Ledger
+Brokeback Mountain
+FALSE
+1950
+ACTOR
+Gregory Peck
+Twelve O'Clock High
+FALSE
+1943
+ACTRESS
+Bette Davis
+"Now, Voyager"
+FALSE
+1944
+ACTRESS
+Greer Garson
+Madame Curie
+FALSE
+2012
+ACTRESS
+Michelle Williams
+My Week with Marilyn
+FALSE
+1997
+PICTURE
+
+The English Patient
+TRUE
+1943
+PICTURE
+
+Random Harvest
+FALSE
+1962
+ACTRESS
+Piper Laurie
+The Hustler
+FALSE
+1962
+ACTRESS
+Sophia Loren
+Two Women
+TRUE
+1962
+PICTURE
+
+The Guns of Navarone
+FALSE
+1982
+ACTOR
+Burt Lancaster
+Atlantic City
+FALSE
+1936
+ACTOR
+Franchot Tone
+Mutiny on the Bounty
+FALSE
+1993
+ACTOR
+Clint Eastwood
+Unforgiven
+FALSE
+2001
+ACTOR
+Russell Crowe
+Gladiator
+TRUE
+1967
+PICTURE
+
+A Man for All Seasons
+TRUE
+1950
+ACTOR
+Kirk Douglas
+Champion
+FALSE
+1991
+ACTRESS
+Anjelica Huston
+The Grifters
+FALSE
+2010
+ACTOR
+George Clooney
+Up in the Air
+FALSE
+2017
+ACTOR
+Viggo Mortensen
+Captain Fantastic
+FALSE
+1948
+PICTURE
+
+Crossfire
+FALSE
+1975
+ACTOR
+Al Pacino
+The Godfather Part II
+FALSE
+1963
+ACTOR
+Gregory Peck
+To Kill a Mockingbird
+TRUE
+1972
+ACTRESS
+Vanessa Redgrave
+"Mary, Queen of Scots"
+FALSE
+1996
+ACTOR
+Richard Dreyfuss
+Mr. Holland's Opus
+FALSE
+1991
+ACTRESS
+Kathy Bates
+Misery
+TRUE
+1943
+ACTRESS
+Teresa Wright
+The Pride of the Yankees
+FALSE
+2013
+PICTURE
+
+Zero Dark Thirty
+FALSE
+2012
+PICTURE
+
+Midnight in Paris
+FALSE
+1956
+ACTRESS
+Jennifer Jones
+Love Is a Many-Splendored Thing
+FALSE
+1983
+ACTRESS
+Meryl Streep
+Sophie's Choice
+TRUE
+1956
+PICTURE
+
+The Rose Tattoo
+FALSE
+1964
+ACTRESS
+Leslie Caron
+The L-Shaped Room
+FALSE
+1989
+ACTRESS
+Glenn Close
+Dangerous Liaisons
+FALSE
+1960
+ACTRESS
+Elizabeth Taylor
+"Suddenly, Last Summer"
+FALSE
+1938
+ACTOR
+Fredric March
+A Star Is Born
+FALSE
+2012
+ACTRESS
+Viola Davis
+The Help
+FALSE
+1964
+PICTURE
+
+America America
+FALSE
+1975
+ACTOR
+Art Carney
+Harry and Tonto
+TRUE
+2021
+ACTOR
+Chadwick Boseman
+Ma Rainey's Black Bottom
+FALSE
+2024
+ACTRESS
+Emma Stone
+Poor Things
+TRUE
+1942
+ACTOR
+Gary Cooper
+Sergeant York
+TRUE
+2015
+ACTRESS
+Julianne Moore
+Still Alice
+TRUE
+1928
+ACTRESS
+Louise Dresser
+A Ship Comes In
+FALSE
+1977
+ACTRESS
+Faye Dunaway
+Network
+TRUE
+1948
+ACTOR
+Gregory Peck
+Gentleman's Agreement
+FALSE
+1991
+PICTURE
+
+Good Fellas
+FALSE
+1970
+ACTRESS
+Liza Minnelli
+The Sterile Cuckoo
+FALSE
+1949
+ACTRESS
+Olivia de Havilland
+The Snake Pit
+FALSE
+1947
+ACTRESS
+Olivia de Havilland
+To Each His Own
+TRUE
+1954
+ACTRESS
+Deborah Kerr
+From Here to Eternity
+FALSE
+1951
+PICTURE
+
+All about Eve
+TRUE
+1957
+ACTRESS
+Deborah Kerr
+The King and I
+FALSE
+1993
+ACTRESS
+Susan Sarandon
+Lorenzo's Oil
+FALSE
+1976
+PICTURE
+
+Nashville
+FALSE
+1991
+PICTURE
+
+"The Godfather, Part III"
+FALSE
+1999
+ACTOR
+Roberto Benigni
+Life Is Beautiful
+TRUE
+1965
+PICTURE
+
+Zorba the Greek
+FALSE
+1988
+PICTURE
+
+The Last Emperor
+TRUE
+1995
+PICTURE
+
+Four Weddings and a Funeral
+FALSE
+1951
+ACTRESS
+Bette Davis
+All about Eve
+FALSE
+1975
+ACTRESS
+Faye Dunaway
+Chinatown
+FALSE
+1946
+ACTOR
+Gene Kelly
+Anchors Aweigh
+FALSE
+2023
+ACTRESS
+Cate Blanchett
+Tar
+FALSE
+2002
+ACTRESS
+Halle Berry
+Monster's Ball
+TRUE
+1996
+PICTURE
+
+Sense and Sensibility
+FALSE
+1987
+ACTRESS
+Kathleen Turner
+Peggy Sue Got Married
+FALSE
+2016
+PICTURE
+
+Room
+FALSE
+1996
+ACTRESS
+Emma Thompson
+Sense and Sensibility
+FALSE
+2003
+PICTURE
+
+The Pianist
+FALSE
+1963
+ACTRESS
+Bette Davis
+What Ever Happened to Baby Jane?
+FALSE
+2014
+PICTURE
+
+Captain Phillips
+FALSE
+1937
+ACTOR
+Spencer Tracy
+San Francisco
+FALSE
+2020
+ACTOR
+Adam Driver
+Marriage Story
+FALSE
+1969
+PICTURE
+
+Romeo and Juliet
+FALSE
+1930
+ACTOR
+Wallace Beery
+The Big House
+FALSE
+1995
+PICTURE
+
+The Shawshank Redemption
+FALSE
+1968
+ACTRESS
+Katharine Hepburn
+Guess Who's Coming to Dinner
+TRUE
+1983
+ACTOR
+Paul Newman
+The Verdict
+FALSE
+2012
+PICTURE
+
+War Horse
+FALSE
+2021
+PICTURE
+
+Sound of Metal
+FALSE
+1961
+ACTOR
+Laurence Olivier
+The Entertainer
+FALSE
+1996
+ACTOR
+Massimo Troisi
+The Postman (Il Postino)
+FALSE
+2019
+ACTOR
+Christian Bale
+Vice
+FALSE
+2018
+PICTURE
+
+"Three Billboards outside Ebbing, Missouri"
+FALSE
+2023
+ACTOR
+Colin Farrell
+The Banshees of Inisherin
+FALSE
+1986
+ACTOR
+William Hurt
+Kiss of the Spider Woman
+TRUE
+2024
+PICTURE
+
+The Zone of Interest
+FALSE
+2007
+ACTRESS
+Helen Mirren
+The Queen
+TRUE
+1989
+ACTOR
+Edward James Olmos
+Stand and Deliver
+FALSE
+1994
+ACTRESS
+Holly Hunter
+The Piano
+TRUE
+1948
+ACTOR
+Ronald Colman
+A Double Life
+TRUE
+1943
+PICTURE
+
+The Pride of the Yankees
+FALSE
+1976
+ACTOR
+James Whitmore
+"Give 'em Hell, Harry!"
+FALSE
+1959
+ACTOR
+Tony Curtis
+The Defiant Ones
+FALSE
+1974
+ACTRESS
+Marsha Mason
+Cinderella Liberty
+FALSE
+1983
+ACTRESS
+Debra Winger
+An Officer and a Gentleman
+FALSE
+1948
+PICTURE
+
+Gentleman's Agreement
+TRUE
+1989
+ACTRESS
+Meryl Streep
+A Cry in the Dark
+FALSE
+1954
+PICTURE
+
+Roman Holiday
+FALSE
+1977
+ACTOR
+Giancarlo Giannini
+Seven Beauties
+FALSE
+1953
+ACTRESS
+Susan Hayward
+With a Song in My Heart
+FALSE
+2013
+PICTURE
+
+Lincoln
+FALSE
+1960
+PICTURE
+
+The Nun's Story
+FALSE
+1965
+ACTOR
+Peter Sellers
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+FALSE
+1994
+ACTRESS
+Debra Winger
+Shadowlands
+FALSE
+1929
+PICTURE
+
+Alibi
+FALSE
+2008
+PICTURE
+
+Juno
+FALSE
+1996
+ACTRESS
+Susan Sarandon
+Dead Man Walking
+TRUE
+2017
+ACTRESS
+Natalie Portman
+Jackie
+FALSE
+1974
+ACTOR
+Jack Lemmon
+Save the Tiger
+TRUE
+2018
+ACTOR
+Daniel Day-Lewis
+Phantom Thread
+FALSE
+1983
+PICTURE
+
+Gandhi
+TRUE
+1948
+ACTRESS
+Dorothy McGuire
+Gentleman's Agreement
+FALSE
+1979
+ACTOR
+Gary Busey
+The Buddy Holly Story
+FALSE
+1980
+ACTOR
+Jack Lemmon
+The China Syndrome
+FALSE
+2023
+PICTURE
+
+Triangle of Sadness
+FALSE
+1951
+ACTOR
+James Stewart
+Harvey
+FALSE
+1975
+ACTRESS
+Diahann Carroll
+Claudine
+FALSE
+1948
+ACTRESS
+Loretta Young
+The Farmer's Daughter
+TRUE
+1945
+PICTURE
+
+Going My Way
+TRUE
+1930
+ACTRESS
+Gloria Swanson
+The Trespasser
+FALSE
+2011
+PICTURE
+
+The King's Speech
+TRUE
+1959
+ACTRESS
+Rosalind Russell
+Auntie Mame
+FALSE
+1991
+PICTURE
+
+Ghost
+FALSE
+1963
+ACTRESS
+Lee Remick
+Days of Wine and Roses
+FALSE
+1929
+PICTURE
+
+Hollywood Revue
+FALSE
+1989
+PICTURE
+
+The Accidental Tourist
+FALSE
+1991
+PICTURE
+
+Awakenings
+FALSE
+1939
+ACTOR
+Charles Boyer
+Algiers
+FALSE
+1956
+ACTRESS
+Katharine Hepburn
+Summertime
+FALSE
+1997
+ACTOR
+Woody Harrelson
+The People vs. Larry Flynt
+FALSE
+1933
+ACTRESS
+Katharine Hepburn
+Morning Glory
+TRUE
+2023
+ACTRESS
+Michelle Yeoh
+Everything Everywhere All at Once
+TRUE
+1975
+PICTURE
+
+Lenny
+FALSE
+2004
+ACTOR
+Bill Murray
+Lost in Translation
+FALSE
+1953
+ACTOR
+Kirk Douglas
+The Bad and the Beautiful
+FALSE
+2004
+PICTURE
+
+Seabiscuit
+FALSE
+1981
+PICTURE
+
+Tess
+FALSE
+1989
+PICTURE
+
+Working Girl
+FALSE
+1951
+ACTRESS
+Gloria Swanson
+Sunset Blvd.
+FALSE
+1978
+PICTURE
+
+Annie Hall
+TRUE
+2007
+PICTURE
+
+The Departed
+TRUE
+1978
+ACTOR
+Marcello Mastroianni
+A Special Day
+FALSE
+2006
+ACTRESS
+Judi Dench
+Mrs. Henderson Presents
+FALSE
+1969
+PICTURE
+
+"Rachel, Rachel"
+FALSE
+2001
+ACTRESS
+Juliette Binoche
+Chocolat
+FALSE
+1956
+ACTOR
+Spencer Tracy
+Bad Day at Black Rock
+FALSE
+1968
+ACTOR
+Warren Beatty
+Bonnie and Clyde
+FALSE
+2001
+PICTURE
+
+Chocolat
+FALSE
+2016
+PICTURE
+
+Mad Max: Fury Road
+FALSE
+1974
+ACTRESS
+Joanne Woodward
+"Summer Wishes, Winter Dreams"
+FALSE
+1931
+ACTOR
+Fredric March
+The Royal Family of Broadway
+FALSE
+1976
+ACTRESS
+Carol Kane
+Hester Street
+FALSE
+1974
+ACTRESS
+Ellen Burstyn
+The Exorcist
+FALSE
+1961
+ACTRESS
+Melina Mercouri
+Never on Sunday
+FALSE
+2021
+ACTOR
+Steven Yeun
+Minari
+FALSE
+1967
+ACTRESS
+Elizabeth Taylor
+Who's Afraid of Virginia Woolf?
+TRUE
+1952
+ACTOR
+Humphrey Bogart
+The African Queen
+TRUE
+2008
+ACTRESS
+Cate Blanchett
+Elizabeth: The Golden Age
+FALSE
+2001
+ACTRESS
+Laura Linney
+You Can Count on Me
+FALSE
+1958
+ACTOR
+Marlon Brando
+Sayonara
+FALSE
+1963
+PICTURE
+
+Meredith Willson's The Music Man
+FALSE
+1950
+ACTRESS
+Susan Hayward
+My Foolish Heart
+FALSE
+2010
+ACTRESS
+Helen Mirren
+The Last Station
+FALSE
+2001
+PICTURE
+
+"Crouching Tiger, Hidden Dragon"
+FALSE
+1944
+PICTURE
+
+The Human Comedy
+FALSE
+2003
+ACTOR
+Michael Caine
+The Quiet American
+FALSE
+2004
+ACTRESS
+Naomi Watts
+21 Grams
+FALSE
+1972
+PICTURE
+
+The French Connection
+TRUE
+2002
+ACTOR
+Denzel Washington
+Training Day
+TRUE
+1969
+ACTOR
+Alan Bates
+The Fixer
+FALSE
+1945
+ACTOR
+Bing Crosby
+Going My Way
+TRUE
+2022
+ACTOR
+Benedict Cumberbatch
+The Power of the Dog
+FALSE
+1929
+ACTRESS
+Ruth Chatterton
+Madame X
+FALSE
+2015
+ACTOR
+Michael Keaton
+Birdman or (The Unexpected Virtue of Ignorance)
+FALSE
+2010
+PICTURE
+
+The Hurt Locker
+TRUE
+2021
+ACTOR
+Riz Ahmed
+Sound of Metal
+FALSE
+1975
+ACTOR
+Jack Nicholson
+Chinatown
+FALSE
+2011
+ACTRESS
+Jennifer Lawrence
+Winter's Bone
+FALSE
+2017
+ACTOR
+Casey Affleck
+Manchester by the Sea
+TRUE
+1958
+ACTRESS
+Joanne Woodward
+The Three Faces of Eve
+TRUE
+1950
+PICTURE
+
+Battleground
+FALSE
+1943
+PICTURE
+
+The Talk of the Town
+FALSE
+1985
+ACTRESS
+Judy Davis
+A Passage to India
+FALSE
+2016
+ACTOR
+Eddie Redmayne
+The Danish Girl
+FALSE
+1991
+ACTOR
+Gerard Depardieu
+Cyrano de Bergerac
+FALSE
+1965
+ACTRESS
+Kim Stanley
+Seance on a Wet Afternoon
+FALSE
+2006
+ACTRESS
+Keira Knightley
+Pride & Prejudice
+FALSE
+1958
+ACTOR
+Charles Laughton
+Witness for the Prosecution
+FALSE
+1990
+PICTURE
+
+Field of Dreams
+FALSE
+2002
+ACTRESS
+Sissy Spacek
+In the Bedroom
+FALSE
+2018
+PICTURE
+
+Get Out
+FALSE
+1973
+ACTRESS
+Liza Minnelli
+Cabaret
+TRUE
+1938
+ACTRESS
+Greta Garbo
+Camille
+FALSE
+1929
+ACTOR
+Paul Muni
+The Valiant
+FALSE
+1933
+ACTRESS
+Diana Wynyard
+Cavalcade
+FALSE
+1980
+ACTOR
+Dustin Hoffman
+Kramer vs. Kramer
+TRUE
+1993
+PICTURE
+
+Scent of a Woman
+FALSE
+1947
+ACTOR
+Gregory Peck
+The Yearling
+FALSE
+1955
+ACTOR
+James Mason
+A Star Is Born
+FALSE
+2019
+ACTOR
+Willem Dafoe
+At Eternity's Gate
+FALSE
+1979
+PICTURE
+
+Coming Home
+FALSE
+1984
+PICTURE
+
+The Dresser
+FALSE
+1939
+ACTRESS
+Norma Shearer
+Marie Antoinette
+FALSE
+2016
+ACTRESS
+Cate Blanchett
+Carol
+FALSE
+2018
+ACTRESS
+Frances McDormand
+"Three Billboards outside Ebbing, Missouri"
+TRUE
+2017
+PICTURE
+
+Moonlight
+TRUE
+1930
+ACTRESS
+Norma Shearer
+The Divorcee
+TRUE
+1941
+ACTRESS
+Ginger Rogers
+Kitty Foyle
+TRUE
+2010
+PICTURE
+
+A Serious Man
+FALSE
+1994
+ACTOR
+Laurence Fishburne
+What's Love Got to Do with It
+FALSE
+1997
+PICTURE
+
+Fargo
+FALSE
+1981
+ACTOR
+Robert Duvall
+The Great Santini
+FALSE
+1946
+PICTURE
+
+Mildred Pierce
+FALSE
+1955
+ACTOR
+Bing Crosby
+The Country Girl
+FALSE
+1970
+PICTURE
+
+"Hello, Dolly!"
+FALSE
+1944
+PICTURE
+
+The Song of Bernadette
+FALSE
+1965
+ACTOR
+Richard Burton
+Becket
+FALSE
+1999
+PICTURE
+
+Elizabeth
+FALSE
+1970
+ACTRESS
+Genevieve Bujold
+Anne of the Thousand Days
+FALSE
+2010
+ACTRESS
+Carey Mulligan
+An Education
+FALSE
+1944
+ACTOR
+Walter Pidgeon
+Madame Curie
+FALSE
+1985
+ACTRESS
+Vanessa Redgrave
+The Bostonians
+FALSE
+1939
+ACTRESS
+Wendy Hiller
+Pygmalion
+FALSE
+1963
+ACTOR
+Jack Lemmon
+Days of Wine and Roses
+FALSE
+1990
+PICTURE
+
+My Left Foot
+FALSE
+1971
+ACTOR
+Melvyn Douglas
+I Never Sang for My Father
+FALSE
+1932
+ACTRESS
+Lynn Fontanne
+The Guardsman
+FALSE
+2007
+PICTURE
+
+The Queen
+FALSE
+1968
+PICTURE
+
+In the Heat of the Night
+TRUE
+1992
+PICTURE
+
+Bugsy
+FALSE
+1944
+PICTURE
+
+Heaven Can Wait
+FALSE
+2024
+PICTURE
+
+The Holdovers
+FALSE
+2008
+ACTOR
+Johnny Depp
+Sweeney Todd The Demon Barber of Fleet Street
+FALSE
+2000
+ACTOR
+Denzel Washington
+The Hurricane
+FALSE
+1979
+ACTOR
+Robert De Niro
+The Deer Hunter
+FALSE
+1940
+ACTOR
+Robert Donat
+"Goodbye, Mr. Chips"
+TRUE
+1931
+ACTRESS
+Irene Dunne
+Cimarron
+FALSE
+1930
+ACTOR
+Ronald Colman
+Bulldog Drummond
+FALSE
+2022
+ACTRESS
+Olivia Colman
+The Lost Daughter
+FALSE
+2023
+PICTURE
+
+Tar
+FALSE
+1973
+ACTOR
+Laurence Olivier
+Sleuth
+FALSE
+1998
+PICTURE
+
+The Full Monty
+FALSE
+1968
+ACTOR
+Paul Newman
+Cool Hand Luke
+FALSE
+1997
+ACTRESS
+Diane Keaton
+Marvin's Room
+FALSE
+1998
+PICTURE
+
+L.A. Confidential
+FALSE
+1979
+PICTURE
+
+Midnight Express
+FALSE
+1988
+ACTRESS
+Meryl Streep
+Ironweed
+FALSE
+2019
+PICTURE
+
+The Favourite
+FALSE
+1978
+PICTURE
+
+The Goodbye Girl
+FALSE
+2002
+ACTRESS
+Nicole Kidman
+Moulin Rouge
+FALSE
+1992
+PICTURE
+
+The Silence of the Lambs
+TRUE
+1965
+ACTOR
+Peter O'Toole
+Becket
+FALSE
+1972
+ACTRESS
+Janet Suzman
+Nicholas and Alexandra
+FALSE
+1982
+PICTURE
+
+Chariots of Fire
+TRUE
+1947
+ACTOR
+Fredric March
+The Best Years of Our Lives
+TRUE
+2018
+PICTURE
+
+Lady Bird
+FALSE
+1943
+ACTRESS
+Rosalind Russell
+My Sister Eileen
+FALSE
+1951
+PICTURE
+
+Born Yesterday
+FALSE
+1932
+ACTOR
+Alfred Lunt
+The Guardsman
+FALSE
+2021
+ACTRESS
+Carey Mulligan
+Promising Young Woman
+FALSE
+2018
+PICTURE
+
+Call Me by Your Name
+FALSE
+2004
+ACTOR
+Jude Law
+Cold Mountain
+FALSE
+1995
+PICTURE
+
+Forrest Gump
+TRUE
+1998
+ACTOR
+Dustin Hoffman
+Wag the Dog
+FALSE
+2017
+ACTRESS
+Ruth Negga
+Loving
+FALSE
+1985
+PICTURE
+
+Amadeus
+TRUE
+2001
+ACTOR
+Tom Hanks
+Cast Away
+FALSE
+1958
+ACTOR
+Alec Guinness
+The Bridge on the River Kwai
+TRUE
+1999
+ACTOR
+Ian McKellen
+Gods and Monsters
+FALSE
+1981
+ACTOR
+Peter O'Toole
+The Stunt Man
+FALSE
+1994
+PICTURE
+
+The Remains of the Day
+FALSE
+1955
+ACTRESS
+Judy Garland
+A Star Is Born
+FALSE
+1956
+ACTOR
+James Dean
+East of Eden
+FALSE
+1964
+ACTRESS
+Shirley MacLaine
+Irma La Douce
+FALSE
+1952
+ACTRESS
+Katharine Hepburn
+The African Queen
+FALSE
+1963
+ACTOR
+Peter O'Toole
+Lawrence of Arabia
+FALSE
+1973
+PICTURE
+
+The Emigrants
+FALSE
+2011
+ACTRESS
+Annette Bening
+The Kids Are All Right
+FALSE
+1947
+ACTOR
+Larry Parks
+The Jolson Story
+FALSE
+1951
+ACTOR
+William Holden
+Sunset Blvd.
+FALSE
+2021
+PICTURE
+
+Judas and the Black Messiah
+FALSE
+1982
+ACTRESS
+Susan Sarandon
+Atlantic City
+FALSE
+1951
+PICTURE
+
+Sunset Blvd.
+FALSE
+1964
+PICTURE
+
+Lilies of the Field
+FALSE
+1982
+ACTOR
+Warren Beatty
+Reds
+FALSE
+1937
+ACTOR
+Gary Cooper
+Mr. Deeds Goes to Town
+FALSE
+1937
+ACTRESS
+Gladys George
+Valiant Is the Word for Carrie
+FALSE
+2018
+ACTOR
+Denzel Washington
+"Roman J. Israel, Esq."
+FALSE
+2001
+ACTOR
+Ed Harris
+Pollock
+FALSE
+2007
+PICTURE
+
+Little Miss Sunshine
+FALSE
+1997
+ACTOR
+Tom Cruise
+Jerry Maguire
+FALSE
+2011
+PICTURE
+
+Winter's Bone
+FALSE
+1954
+ACTOR
+Montgomery Clift
+From Here to Eternity
+FALSE
+2010
+PICTURE
+
+Inglourious Basterds
+FALSE
+1946
+PICTURE
+
+Spellbound
+FALSE
+1991
+ACTRESS
+Joanne Woodward
+Mr. & Mrs. Bridge
+FALSE
+2006
+ACTRESS
+Reese Witherspoon
+Walk the Line
+TRUE
+2010
+PICTURE
+
+Precious: Based on the Novel 'Push' by Sapphire
+FALSE
+1986
+ACTOR
+Jon Voight
+Runaway Train
+FALSE
+1985
+ACTRESS
+Jessica Lange
+Country
+FALSE
+1938
+ACTOR
+Spencer Tracy
+Captains Courageous
+TRUE
+1960
+ACTOR
+Charlton Heston
+Ben-Hur
+TRUE
+1970
+ACTOR
+John Wayne
+True Grit
+TRUE
+2014
+ACTOR
+Bruce Dern
+Nebraska
+FALSE
+1943
+ACTOR
+Ronald Colman
+Random Harvest
+FALSE
+1961
+ACTRESS
+Greer Garson
+Sunrise at Campobello
+FALSE
+2018
+ACTOR
+Gary Oldman
+Darkest Hour
+TRUE
+1988
+PICTURE
+
+Broadcast News
+FALSE
+1930
+ACTRESS
+Ruth Chatterton
+Sarah and Son
+FALSE
+2021
+ACTOR
+Gary Oldman
+Mank
+FALSE
+1969
+PICTURE
+
+Oliver!
+TRUE
+1994
+ACTRESS
+Stockard Channing
+Six Degrees of Separation
+FALSE
+1993
+ACTOR
+Robert Downey Jr.
+Chaplin
+FALSE
+2015
+ACTRESS
+Marion Cotillard
+"Two Days, One Night"
+FALSE
+1985
+ACTRESS
+Sally Field
+Places in the Heart
+TRUE
+2016
+PICTURE
+
+The Revenant
+FALSE
+1950
+ACTRESS
+Jeanne Crain
+Pinky
+FALSE
+1957
+PICTURE
+
+The King and I
+FALSE
+2012
+PICTURE
+
+Moneyball
+FALSE
+2008
+PICTURE
+
+No Country for Old Men
+TRUE
+1949
+ACTOR
+Laurence Olivier
+Hamlet
+TRUE
+1961
+PICTURE
+
+Sons and Lovers
+FALSE
+2023
+ACTOR
+Austin Butler
+Elvis
+FALSE
+2010
+ACTRESS
+Gabourey Sidibe
+Precious: Based on the Novel 'Push' by Sapphire
+FALSE
+1993
+PICTURE
+
+A Few Good Men
+FALSE
+1953
+PICTURE
+
+Ivanhoe
+FALSE
+2018
+ACTRESS
+Saoirse Ronan
+Lady Bird
+FALSE
+2004
+ACTRESS
+Samantha Morton
+In America
+FALSE
+2021
+ACTRESS
+Vanessa Kirby
+Pieces of a Woman
+FALSE
+2013
+ACTOR
+Daniel Day-Lewis
+Lincoln
+TRUE
+1978
+ACTOR
+John Travolta
+Saturday Night Fever
+FALSE
+1940
+ACTOR
+Mickey Rooney
+Babes in Arms
+FALSE
+1952
+PICTURE
+
+A Streetcar Named Desire
+FALSE
+1952
+ACTOR
+Montgomery Clift
+A Place in the Sun
+FALSE
+1933
+ACTOR
+Leslie Howard
+Berkeley Square
+FALSE
+2001
+ACTRESS
+Julia Roberts
+Erin Brockovich
+TRUE
+1972
+ACTRESS
+Jane Fonda
+Klute
+TRUE
+1969
+ACTRESS
+Katharine Hepburn
+The Lion in Winter
+TRUE
+1978
+PICTURE
+
+The Turning Point
+FALSE
+1987
+PICTURE
+
+Hannah and Her Sisters
+FALSE
+1981
+ACTRESS
+Goldie Hawn
+Private Benjamin
+FALSE
+1981
+ACTRESS
+Mary Tyler Moore
+Ordinary People
+FALSE
+2009
+ACTOR
+Mickey Rourke
+The Wrestler
+FALSE
+1998
+PICTURE
+
+Titanic
+TRUE
+2007
+ACTRESS
+Penelope Cruz
+Volver
+FALSE
+1969
+PICTURE
+
+The Lion in Winter
+FALSE
+1966
+PICTURE
+
+Darling
+FALSE
+1971
+ACTRESS
+Ali MacGraw
+Love Story
+FALSE
+2019
+ACTOR
+Rami Malek
+Bohemian Rhapsody
+TRUE
+1953
+ACTRESS
+Joan Crawford
+Sudden Fear
+FALSE
+1936
+ACTRESS
+Merle Oberon
+The Dark Angel
+FALSE
+2007
+ACTRESS
+Meryl Streep
+The Devil Wears Prada
+FALSE
+1992
+ACTRESS
+Laura Dern
+Rambling Rose
+FALSE
+1938
+ACTOR
+Paul Muni
+The Life of Emile Zola
+FALSE
+1939
+ACTOR
+James Cagney
+Angels with Dirty Faces
+FALSE
+2024
+ACTRESS
+Lily Gladstone
+Killers of the Flower Moon
+FALSE
+2006
+PICTURE
+
+Brokeback Mountain
+FALSE
+2005
+PICTURE
+
+Sideways
+FALSE
+1942
+ACTOR
+Walter Huston
+All That Money Can Buy
+FALSE
+1970
+ACTRESS
+Jane Fonda
+"They Shoot Horses, Don't They?"
+FALSE
+1964
+ACTOR
+Sidney Poitier
+Lilies of the Field
+TRUE
+1957
+ACTOR
+Kirk Douglas
+Lust for Life
+FALSE
+1944
+ACTRESS
+Jennifer Jones
+The Song of Bernadette
+TRUE
+2003
+ACTOR
+Daniel Day-Lewis
+Gangs of New York
+FALSE
+1978
+PICTURE
+
+Julia
+FALSE
+1979
+ACTOR
+Warren Beatty
+Heaven Can Wait
+FALSE
+1941
+ACTRESS
+Joan Fontaine
+Rebecca
+FALSE
+1977
+ACTRESS
+Liv Ullmann
+Face to Face
+FALSE
+1951
+ACTRESS
+Judy Holliday
+Born Yesterday
+TRUE
+1939
+ACTOR
+Spencer Tracy
+Boys Town
+TRUE
+1977
+ACTOR
+Sylvester Stallone
+Rocky
+FALSE
+2017
+ACTRESS
+Isabelle Huppert
+Elle
+FALSE
+1947
+ACTRESS
+Celia Johnson
+Brief Encounter
+FALSE
+1941
+ACTOR
+James Stewart
+The Philadelphia Story
+TRUE
+2005
+ACTOR
+Jamie Foxx
+Ray
+TRUE
+1997
+ACTRESS
+Brenda Blethyn
+Secrets & Lies
+FALSE
+1970
+ACTOR
+Dustin Hoffman
+Midnight Cowboy
+FALSE
+1954
+ACTOR
+Richard Burton
+The Robe
+FALSE
+1962
+ACTOR
+Stuart Whitman
+The Mark
+FALSE
+2021
+PICTURE
+
+The Trial of the Chicago 7
+FALSE
+1973
+PICTURE
+
+Deliverance
+FALSE
+2021
+PICTURE
+
+Mank
+FALSE
+1979
+ACTRESS
+Ellen Burstyn
+"Same Time, Next Year"
+FALSE
+1983
+ACTOR
+Peter O'Toole
+My Favorite Year
+FALSE
+1989
+ACTOR
+Gene Hackman
+Mississippi Burning
+FALSE
+1990
+ACTRESS
+Michelle Pfeiffer
+The Fabulous Baker Boys
+FALSE
+1969
+PICTURE
+
+Funny Girl
+FALSE
+1993
+PICTURE
+
+Unforgiven
+TRUE
+1998
+ACTRESS
+Judi Dench
+Mrs. Brown
+FALSE
+1976
+ACTRESS
+Ann-Margret
+Tommy
+FALSE
+1944
+ACTRESS
+Joan Fontaine
+The Constant Nymph
+FALSE
+2010
+PICTURE
+
+An Education
+FALSE
+2013
+PICTURE
+
+Amour
+FALSE
+1931
+ACTOR
+Richard Dix
+Cimarron
+FALSE
+2019
+ACTOR
+Viggo Mortensen
+Green Book
+FALSE
+1983
+ACTRESS
+Sissy Spacek
+Missing
+FALSE
+2020
+PICTURE
+
+Once upon a Time...in Hollywood
+FALSE
+1954
+ACTRESS
+Ava Gardner
+Mogambo
+FALSE
+2024
+PICTURE
+
+Barbie
+FALSE
+1974
+PICTURE
+
+The Exorcist
+FALSE
+2020
+ACTOR
+Antonio Banderas
+Pain and Glory
+FALSE
+1944
+PICTURE
+
+The Ox-Bow Incident
+FALSE
+2017
+ACTOR
+Andrew Garfield
+Hacksaw Ridge
+FALSE
+1999
+ACTOR
+Tom Hanks
+Saving Private Ryan
+FALSE
+1945
+ACTOR
+Cary Grant
+None but the Lonely Heart
+FALSE
+1980
+ACTRESS
+Jane Fonda
+The China Syndrome
+FALSE
+2014
+PICTURE
+
+The Wolf of Wall Street
+FALSE
+2008
+ACTOR
+George Clooney
+Michael Clayton
+FALSE
+2021
+PICTURE
+
+The Father
+FALSE
+2000
+ACTOR
+Sean Penn
+Sweet and Lowdown
+FALSE
+1958
+PICTURE
+
+Sayonara
+FALSE
+1928
+PICTURE
+
+Wings
+TRUE
+1992
+ACTOR
+Robert De Niro
+Cape Fear
+FALSE
+1988
+PICTURE
+
+Hope and Glory
+FALSE
+1987
+ACTOR
+Bob Hoskins
+Mona Lisa
+FALSE
+2000
+PICTURE
+
+The Sixth Sense
+FALSE
+1964
+ACTRESS
+Patricia Neal
+Hud
+TRUE
+2022
+ACTOR
+Andrew Garfield
+"tick, tick...BOOM!"
+FALSE
+1999
+ACTRESS
+Fernanda Montenegro
+Central Station
+FALSE
+1941
+ACTRESS
+Katharine Hepburn
+The Philadelphia Story
+FALSE
+1983
+ACTRESS
+Julie Andrews
+Victor/Victoria
+FALSE
+2010
+ACTOR
+Jeff Bridges
+Crazy Heart
+TRUE
+1971
+PICTURE
+
+Patton
+TRUE
+1987
+ACTRESS
+Sissy Spacek
+Crimes of the Heart
+FALSE
+1940
+ACTOR
+Clark Gable
+Gone with the Wind
+FALSE
+1963
+PICTURE
+
+Lawrence of Arabia
+TRUE
+1937
+ACTOR
+Paul Muni
+The Story of Louis Pasteur
+TRUE
+1950
+ACTOR
+Broderick Crawford
+All the King's Men
+TRUE
+1973
+ACTRESS
+Maggie Smith
+Travels with My Aunt
+FALSE
+1936
+ACTOR
+Clark Gable
+Mutiny on the Bounty
+FALSE
+1961
+PICTURE
+
+The Alamo
+FALSE
+1959
+ACTRESS
+Deborah Kerr
+Separate Tables
+FALSE
+2009
+PICTURE
+
+Frost/Nixon
+FALSE
+1936
+ACTOR
+Charles Laughton
+Mutiny on the Bounty
+FALSE
+2009
+ACTRESS
+Meryl Streep
+Doubt
+FALSE
+2022
+ACTRESS
+Penelope Cruz
+Parallel Mothers
+FALSE
+1942
+ACTRESS
+Greer Garson
+Blossoms in the Dust
+FALSE
+1931
+ACTOR
+Adolphe Menjou
+The Front Page
+FALSE
+1967
+PICTURE
+
+The Sand Pebbles
+FALSE
+2003
+ACTRESS
+Renée Zellweger
+Chicago
+FALSE
+1942
+ACTOR
+Orson Welles
+Citizen Kane
+FALSE
+1928
+ACTRESS
+Janet Gaynor
+7th Heaven
+TRUE
+1997
+ACTRESS
+Emily Watson
+Breaking the Waves
+FALSE
+1958
+PICTURE
+
+12 Angry Men
+FALSE
+1929
+ACTRESS
+Bessie Love
+The Broadway Melody
+FALSE
+1949
+ACTOR
+Montgomery Clift
+The Search
+FALSE
+1944
+ACTOR
+Humphrey Bogart
+Casablanca
+FALSE
+2004
+PICTURE
+
+The Lord of the Rings: The Return of the King
+TRUE
+2008
+ACTOR
+Viggo Mortensen
+Eastern Promises
+FALSE
+2002
+PICTURE
+
+Moulin Rouge
+FALSE
+1957
+PICTURE
+
+Around the World in 80 Days
+TRUE
+1964
+PICTURE
+
+How the West Was Won
+FALSE
+1963
+PICTURE
+
+To Kill a Mockingbird
+FALSE
+1974
+ACTOR
+Jack Nicholson
+The Last Detail
+FALSE
+2005
+PICTURE
+
+Finding Neverland
+FALSE
+1976
+ACTOR
+Al Pacino
+Dog Day Afternoon
+FALSE
+2012
+ACTOR
+Jean Dujardin
+The Artist
+TRUE
+1996
+PICTURE
+
+Apollo 13
+FALSE
+2022
+PICTURE
+
+Licorice Pizza
+FALSE
+1952
+ACTOR
+Fredric March
+Death of a Salesman
+FALSE
+1984
+ACTOR
+Robert Duvall
+Tender Mercies
+TRUE
+1971
+PICTURE
+
+Love Story
+FALSE
+1979
+PICTURE
+
+The Deer Hunter
+TRUE
+1946
+ACTOR
+Gregory Peck
+The Keys of the Kingdom
+FALSE
+1984
+ACTOR
+Albert Finney
+The Dresser
+FALSE
+2000
+ACTRESS
+Meryl Streep
+Music of the Heart
+FALSE
+1983
+ACTRESS
+Jessica Lange
+Frances
+FALSE
+1941
+ACTOR
+Charles Chaplin
+The Great Dictator
+FALSE
+2016
+ACTRESS
+Brie Larson
+Room
+TRUE
+1955
+PICTURE
+
+Seven Brides for Seven Brothers
+FALSE
+1945
+PICTURE
+
+Wilson
+FALSE
+2008
+PICTURE
+
+There Will Be Blood
+FALSE
+1955
+ACTOR
+Dan O'Herlihy
+Adventures of Robinson Crusoe
+FALSE
+1956
+ACTOR
+Ernest Borgnine
+Marty
+TRUE
+2019
+ACTRESS
+Glenn Close
+The Wife
+FALSE
+1961
+ACTOR
+Spencer Tracy
+Inherit the Wind
+FALSE
+1976
+PICTURE
+
+Barry Lyndon
+FALSE
+1972
+ACTOR
+Gene Hackman
+The French Connection
+TRUE
+1957
+ACTOR
+Sir Laurence Olivier
+Richard III
+FALSE
+1943
+ACTRESS
+Katharine Hepburn
+Woman of the Year
+FALSE
+2011
+ACTOR
+Colin Firth
+The King's Speech
+TRUE
+1958
+ACTRESS
+Anna Magnani
+Wild Is the Wind
+FALSE
+1955
+ACTRESS
+Jane Wyman
+Magnificent Obsession
+FALSE
+2014
+ACTRESS
+Judi Dench
+Philomena
+FALSE
+2003
+PICTURE
+
+Chicago
+TRUE
+1986
+PICTURE
+
+The Color Purple
+FALSE
+1959
+PICTURE
+
+Cat on a Hot Tin Roof
+FALSE
+1957
+ACTRESS
+Carroll Baker
+Baby Doll
+FALSE
+1961
+ACTOR
+Burt Lancaster
+Elmer Gantry
+TRUE
+2020
+ACTOR
+Leonardo DiCaprio
+Once upon a Time...in Hollywood
+FALSE
+2009
+PICTURE
+
+Slumdog Millionaire
+TRUE
+1962
+PICTURE
+
+West Side Story
+TRUE
+1998
+ACTRESS
+Julie Christie
+Afterglow
+FALSE
+1952
+ACTRESS
+Vivien Leigh
+A Streetcar Named Desire
+TRUE
+1962
+ACTOR
+Charles Boyer
+Fanny
+FALSE
+2004
+ACTOR
+Ben Kingsley
+House of Sand and Fog
+FALSE
+2010
+PICTURE
+
+Avatar
+FALSE
+2005
+ACTRESS
+Imelda Staunton
+Vera Drake
+FALSE
+2021
+ACTOR
+Anthony Hopkins
+The Father
+TRUE
+2014
+PICTURE
+
+Her
+FALSE
+1981
+PICTURE
+
+Raging Bull
+FALSE
+1971
+PICTURE
+
+Airport
+FALSE
+2007
+ACTOR
+Forest Whitaker
+The Last King of Scotland
+TRUE
+2012
+ACTRESS
+Glenn Close
+Albert Nobbs
+FALSE
+1952
+ACTRESS
+Shelley Winters
+A Place in the Sun
+FALSE
+1959
+PICTURE
+
+Auntie Mame
+FALSE
+1972
+PICTURE
+
+Fiddler on the Roof
+FALSE
+1971
+PICTURE
+
+Five Easy Pieces
+FALSE
+1949
+ACTOR
+Clifton Webb
+Sitting Pretty
+FALSE
+2023
+PICTURE
+
+Everything Everywhere All at Once
+TRUE
+2000
+ACTRESS
+Hilary Swank
+Boys Don't Cry
+TRUE
+1986
+PICTURE
+
+Kiss of the Spider Woman
+FALSE
+2009
+ACTOR
+Brad Pitt
+The Curious Case of Benjamin Button
+FALSE
+2003
+PICTURE
+
+The Hours
+FALSE
+2007
+ACTOR
+Leonardo DiCaprio
+Blood Diamond
+FALSE
+1950
+PICTURE
+
+Twelve O'Clock High
+FALSE
+1974
+PICTURE
+
+American Graffiti
+FALSE
+2002
+ACTRESS
+Judi Dench
+Iris
+FALSE
+2016
+ACTRESS
+Jennifer Lawrence
+Joy
+FALSE
+1943
+ACTRESS
+Greer Garson
+Mrs. Miniver
+TRUE
+1953
+PICTURE
+
+The Greatest Show on Earth
+TRUE
+2017
+PICTURE
+
+Manchester by the Sea
+FALSE
+2016
+PICTURE
+
+Spotlight
+TRUE
+1989
+ACTRESS
+Melanie Griffith
+Working Girl
+FALSE
+1998
+ACTOR
+Jack Nicholson
+As Good as It Gets
+TRUE
+2013
+ACTRESS
+Jessica Chastain
+Zero Dark Thirty
+FALSE
+1948
+ACTOR
+William Powell
+Life with Father
+FALSE
+1970
+PICTURE
+
+Butch Cassidy and the Sundance Kid
+FALSE
+1940
+ACTOR
+James Stewart
+Mr. Smith Goes to Washington
+FALSE
+2015
+PICTURE
+
+Boyhood
+FALSE
+1960
+PICTURE
+
+Anatomy of a Murder
+FALSE
+1995
+PICTURE
+
+Pulp Fiction
+FALSE
+2016
+PICTURE
+
+Bridge of Spies
+FALSE
+1959
+ACTRESS
+Susan Hayward
+I Want to Live!
+TRUE
+1949
+PICTURE
+
+The Snake Pit
+FALSE
+1960
+ACTRESS
+Audrey Hepburn
+The Nun's Story
+FALSE
+1949
+PICTURE
+
+The Treasure of the Sierra Madre
+FALSE
+1970
+PICTURE
+
+Midnight Cowboy
+TRUE
+1950
+PICTURE
+
+All the King's Men
+TRUE
+2006
+ACTRESS
+Felicity Huffman
+Transamerica
+FALSE
+1994
+ACTRESS
+Angela Bassett
+What's Love Got to Do with It
+FALSE
+2004
+ACTOR
+Sean Penn
+Mystic River
+TRUE
+2015
+PICTURE
+
+Birdman or (The Unexpected Virtue of Ignorance)
+TRUE
+1965
+PICTURE
+
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+FALSE
+2014
+ACTOR
+Chiwetel Ejiofor
+12 Years a Slave
+FALSE
+1971
+ACTOR
+Jack Nicholson
+Five Easy Pieces
+FALSE
+1981
+ACTOR
+Jack Lemmon
+Tribute
+FALSE
+1960
+ACTOR
+Jack Lemmon
+Some Like It Hot
+FALSE
+1957
+PICTURE
+
+The Ten Commandments
+FALSE
+1954
+PICTURE
+
+Julius Caesar
+FALSE
+1993
+ACTRESS
+Mary McDonnell
+Passion Fish
+FALSE
+1981
+PICTURE
+
+The Elephant Man
+FALSE
+1935
+ACTOR
+Clark Gable
+It Happened One Night
+TRUE
+1965
+ACTRESS
+Julie Andrews
+Mary Poppins
+TRUE
+1948
+PICTURE
+
+The Bishop's Wife
+FALSE
+1988
+PICTURE
+
+Moonstruck
+FALSE
+2000
+PICTURE
+
+American Beauty
+TRUE
+1998
+ACTOR
+Robert Duvall
+The Apostle
+FALSE
+1990
+ACTRESS
+Pauline Collins
+Shirley Valentine
+FALSE
+1961
+ACTRESS
+Elizabeth Taylor
+Butterfield 8
+TRUE
+1960
+PICTURE
+
+Ben-Hur
+TRUE
+1979
+ACTOR
+Laurence Olivier
+The Boys from Brazil
+FALSE
+2020
+PICTURE
+
+Little Women
+FALSE
+1949
+PICTURE
+
+Johnny Belinda
+FALSE
+2002
+ACTOR
+Sean Penn
+I Am Sam
+FALSE
+2014
+PICTURE
+
+12 Years a Slave
+TRUE
+1982
+PICTURE
+
+Reds
+FALSE
+2003
+ACTOR
+Adrien Brody
+The Pianist
+TRUE
+1999
+PICTURE
+
+Saving Private Ryan
+FALSE
+1951
+ACTRESS
+Eleanor Parker
+Caged
+FALSE
+1967
+ACTOR
+Paul Scofield
+A Man for All Seasons
+TRUE
+2005
+ACTRESS
+Annette Bening
+Being Julia
+FALSE
+1967
+ACTRESS
+Lynn Redgrave
+Georgy Girl
+FALSE
+1942
+PICTURE
+
+Here Comes Mr. Jordan
+FALSE
+1980
+ACTOR
+Al Pacino
+...And Justice for All
+FALSE
+1932
+ACTRESS
+Marie Dressler
+Emma
+FALSE
+1989
+PICTURE
+
+Rain Man
+TRUE
+1996
+PICTURE
+
+Babe
+FALSE
+2004
+ACTRESS
+Diane Keaton
+Something's Gotta Give
+FALSE
+1992
+ACTRESS
+Geena Davis
+Thelma & Louise
+FALSE
+1941
+ACTOR
+Raymond Massey
+Abe Lincoln in Illinois
+FALSE
+1941
+ACTRESS
+Martha Scott
+Our Town
+FALSE
+2023
+PICTURE
+
+Elvis
+FALSE
+1966
+PICTURE
+
+Ship of Fools
+FALSE
+2009
+PICTURE
+
+Milk
+FALSE
+2023
+ACTRESS
+Ana de Armas
+Blonde
+FALSE
+1946
+ACTRESS
+Gene Tierney
+Leave Her to Heaven
+FALSE
+2006
+ACTOR
+Philip Seymour Hoffman
+Capote
+TRUE
+2011
+ACTRESS
+Natalie Portman
+Black Swan
+TRUE
+1991
+PICTURE
+
+Dances With Wolves
+TRUE
+1986
+PICTURE
+
+Out of Africa
+TRUE
+1951
+PICTURE
+
+Father of the Bride
+FALSE
+1986
+ACTOR
+James Garner
+Murphy's Romance
+FALSE
+2011
+ACTOR
+Jeff Bridges
+True Grit
+FALSE
+1943
+PICTURE
+
+The Invaders
+FALSE
+2009
+ACTRESS
+Kate Winslet
+The Reader
+TRUE
+1939
+ACTRESS
+Fay Bainter
+White Banners
+FALSE
+2011
+PICTURE
+
+Toy Story 3
+FALSE
+2013
+PICTURE
+
+Life of Pi
+FALSE
+1971
+PICTURE
+
+M*A*S*H
+FALSE
+2006
+ACTOR
+Joaquin Phoenix
+Walk the Line
+FALSE
+1936
+ACTRESS
+Miriam Hopkins
+Becky Sharp
+FALSE
+1965
+ACTOR
+Rex Harrison
+My Fair Lady
+TRUE
+1974
+ACTOR
+Robert Redford
+The Sting
+FALSE
+1958
+ACTOR
+Anthony Franciosa
+A Hatful of Rain
+FALSE
+1999
+PICTURE
+
+The Thin Red Line
+FALSE
+1944
+PICTURE
+
+The More the Merrier
+FALSE
+1957
+PICTURE
+
+Friendly Persuasion
+FALSE
+1954
+ACTOR
+William Holden
+Stalag 17
+TRUE
+2018
+ACTOR
+Timothee Chalamet
+Call Me by Your Name
+FALSE
+1980
+PICTURE
+
+Apocalypse Now
+FALSE
+1930
+ACTRESS
+Nancy Carroll
+The Devil's Holiday
+FALSE
+2012
+PICTURE
+
+The Help
+FALSE
+1973
+ACTOR
+Peter O'Toole
+The Ruling Class
+FALSE
+1959
+PICTURE
+
+The Defiant Ones
+FALSE
+1953
+ACTOR
+Gary Cooper
+High Noon
+TRUE
+2011
+ACTRESS
+Michelle Williams
+Blue Valentine
+FALSE
+1942
+ACTRESS
+Joan Fontaine
+Suspicion
+TRUE
+1991
+ACTOR
+Jeremy Irons
+Reversal of Fortune
+TRUE
+1972
+ACTOR
+Topol
+Fiddler on the Roof
+FALSE
+1947
+PICTURE
+
+The Razor's Edge
+FALSE
+1983
+PICTURE
+
+Missing
+FALSE
+2002
+ACTOR
+Will Smith
+Ali
+FALSE
+1953
+PICTURE
+
+High Noon
+FALSE
+1939
+ACTRESS
+Bette Davis
+Jezebel
+TRUE
+1932
+ACTOR
+Wallace Beery
+The Champ
+TRUE
+2022
+ACTOR
+Will Smith
+King Richard
+TRUE
+1939
+ACTRESS
+Margaret Sullavan
+Three Comrades
+FALSE
+2021
+PICTURE
+
+Promising Young Woman
+FALSE
+2011
+PICTURE
+
+The Social Network
+FALSE
+1957
+ACTOR
+James Dean
+Giant
+FALSE
+1945
+ACTRESS
+Ingrid Bergman
+Gaslight
+TRUE
+1933
+ACTOR
+Charles Laughton
+The Private Life of Henry VIII
+TRUE
+1981
+ACTOR
+John Hurt
+The Elephant Man
+FALSE
+1947
+PICTURE
+
+The Yearling
+FALSE
+2014
+ACTRESS
+Meryl Streep
+August: Osage County
+FALSE
+1960
+PICTURE
+
+The Diary of Anne Frank
+FALSE
+1998
+ACTOR
+Matt Damon
+Good Will Hunting
+FALSE
+1966
+ACTOR
+Lee Marvin
+Cat Ballou
+TRUE
+2001
+ACTRESS
+Joan Allen
+The Contender
+FALSE
+1942
+ACTOR
+Cary Grant
+Penny Serenade
+FALSE
+2023
+PICTURE
+
+Women Talking
+FALSE
+1936
+ACTRESS
+Bette Davis
+Dangerous
+TRUE
+1980
+ACTOR
+Roy Scheider
+All That Jazz
+FALSE
+2011
+PICTURE
+
+The Fighter
+FALSE
+1947
+ACTRESS
+Jane Wyman
+The Yearling
+FALSE
+2018
+PICTURE
+
+The Shape of Water
+TRUE
+1963
+ACTOR
+Marcello Mastroianni
+Divorce--Italian Style
+FALSE
+2014
+ACTRESS
+Amy Adams
+American Hustle
+FALSE
+1968
+PICTURE
+
+Doctor Dolittle
+FALSE
+1954
+PICTURE
+
+Shane
+FALSE
+2010
+PICTURE
+
+The Blind Side
+FALSE
+1999
+ACTOR
+Nick Nolte
+Affliction
+FALSE
+1991
+ACTOR
+Robert De Niro
+Awakenings
+FALSE
+1945
+ACTRESS
+Barbara Stanwyck
+Double Indemnity
+FALSE
+1949
+PICTURE
+
+The Red Shoes
+FALSE
+2023
+PICTURE
+
+The Fabelmans
+FALSE
+1978
+ACTRESS
+Jane Fonda
+Julia
+FALSE
+1948
+ACTRESS
+Joan Crawford
+Possessed
+FALSE
+1948
+PICTURE
+
+Miracle on 34th Street
+FALSE
+2013
+PICTURE
+
+Beasts of the Southern Wild
+FALSE
+1930
+ACTOR
+Maurice Chevalier
+The Big Pond
+FALSE
+2019
+ACTRESS
+Lady Gaga
+A Star Is Born
+FALSE
+1994
+ACTOR
+Daniel Day-Lewis
+In the Name of the Father
+FALSE
+2001
+PICTURE
+
+Erin Brockovich
+FALSE
+1965
+ACTRESS
+Sophia Loren
+Marriage Italian Style
+FALSE
+2000
+ACTOR
+Richard Farnsworth
+The Straight Story
+FALSE
+1961
+ACTOR
+Jack Lemmon
+The Apartment
+FALSE
+2005
+ACTOR
+Clint Eastwood
+Million Dollar Baby
+FALSE
+1929
+ACTRESS
+Corinne Griffith
+The Divine Lady
+FALSE
+1998
+ACTOR
+Peter Fonda
+Ulee's Gold
+FALSE
+1985
+ACTOR
+Tom Hulce
+Amadeus
+FALSE
+1946
+ACTOR
+Bing Crosby
+The Bells of St. Mary's
+FALSE
+1994
+ACTRESS
+Emma Thompson
+The Remains of the Day
+FALSE
+1946
+ACTRESS
+Ingrid Bergman
+The Bells of St. Mary's
+FALSE
+2018
+PICTURE
+
+Dunkirk
+FALSE
+1996
+ACTOR
+Anthony Hopkins
+Nixon
+FALSE
+1982
+PICTURE
+
+Raiders of the Lost Ark
+FALSE
+1993
+ACTOR
+Al Pacino
+Scent of a Woman
+TRUE
+2008
+ACTRESS
+Laura Linney
+The Savages
+FALSE
+2017
+PICTURE
+
+Fences
+FALSE
+2008
+ACTRESS
+Julie Christie
+Away from Her
+FALSE
+1942
+PICTURE
+
+Hold Back the Dawn
+FALSE
+2020
+ACTRESS
+Cynthia Erivo
+Harriet
+FALSE
+1990
+ACTOR
+Robin Williams
+Dead Poets Society
+FALSE
+1956
+ACTRESS
+Susan Hayward
+I'll Cry Tomorrow
+FALSE
+1990
+PICTURE
+
+Driving Miss Daisy
+TRUE
+2024
+ACTOR
+Paul Giamatti
+The Holdovers
+FALSE
+2021
+ACTRESS
+Viola Davis
+Ma Rainey's Black Bottom
+FALSE
+1996
+ACTRESS
+Sharon Stone
+Casino
+FALSE
+1996
+ACTOR
+Nicolas Cage
+Leaving Las Vegas
+TRUE
+1975
+ACTOR
+Albert Finney
+Murder on the Orient Express
+FALSE
+1989
+ACTOR
+Max von Sydow
+Pelle the Conqueror
+FALSE
+1967
+ACTRESS
+Anouk Aimee
+A Man and a Woman
+FALSE
+1974
+PICTURE
+
+A Touch of Class
+FALSE
+1984
+PICTURE
+
+The Right Stuff
+FALSE
+1985
+PICTURE
+
+Places in the Heart
+FALSE
+1964
+PICTURE
+
+Tom Jones
+TRUE
+1955
+ACTRESS
+Audrey Hepburn
+Sabrina
+FALSE
+1943
+ACTOR
+Gary Cooper
+The Pride of the Yankees
+FALSE
+1957
+ACTRESS
+Ingrid Bergman
+Anastasia
+TRUE
+2000
+PICTURE
+
+The Insider
+FALSE
+1985
+PICTURE
+
+A Passage to India
+FALSE
+2011
+PICTURE
+
+Black Swan
+FALSE
+2000
+PICTURE
+
+The Green Mile
+FALSE
+2020
+ACTRESS
+Saoirse Ronan
+Little Women
+FALSE
+1955
+ACTRESS
+Grace Kelly
+The Country Girl
+TRUE
+2010
+ACTRESS
+Sandra Bullock
+The Blind Side
+TRUE
+1981
+ACTRESS
+Sissy Spacek
+Coal Miner's Daughter
+TRUE
+1985
+ACTOR
+F. Murray Abraham
+Amadeus
+TRUE
+1995
+ACTOR
+Nigel Hawthorne
+The Madness of King George
+FALSE
+1986
+ACTRESS
+Geraldine Page
+The Trip to Bountiful
+TRUE
+1955
+PICTURE
+
+The Country Girl
+FALSE
+1961
+PICTURE
+
+Elmer Gantry
+FALSE
+2017
+PICTURE
+
+La La Land
+FALSE
+1977
+PICTURE
+
+Taxi Driver
+FALSE
+1989
+ACTOR
+Tom Hanks
+Big
+FALSE
+1944
+ACTOR
+Gary Cooper
+For Whom the Bell Tolls
+FALSE
+1958
+PICTURE
+
+The Bridge on the River Kwai
+TRUE
+1967
+ACTRESS
+Vanessa Redgrave
+Morgan!
+FALSE
+1984
+ACTRESS
+Jane Alexander
+Testament
+FALSE
+2020
+ACTRESS
+Scarlett Johansson
+Marriage Story
+FALSE
+1992
+ACTOR
+Nick Nolte
+The Prince of Tides
+FALSE
+1948
+PICTURE
+
+Great Expectations
+FALSE
+1949
+ACTOR
+Dan Dailey
+When My Baby Smiles at Me
+FALSE
+1971
+ACTRESS
+Jane Alexander
+The Great White Hope
+FALSE
+2017
+PICTURE
+
+Hell or High Water
+FALSE
+2011
+PICTURE
+
+127 Hours
+FALSE
+2024
+PICTURE
+
+Poor Things
+FALSE
+1929
+ACTOR
+Lewis Stone
+The Patriot
+FALSE
+1945
+ACTRESS
+Claudette Colbert
+Since You Went Away
+FALSE
+1988
+ACTOR
+Michael Douglas
+Wall Street
+TRUE
+1931
+ACTOR
+Jackie Cooper
+Skippy
+FALSE
+1967
+ACTOR
+Richard Burton
+Who's Afraid of Virginia Woolf?
+FALSE
+1990
+ACTOR
+Daniel Day Lewis
+My Left Foot
+TRUE
+1993
+ACTRESS
+Catherine Deneuve
+Indochine
+FALSE
+1937
+ACTOR
+William Powell
+My Man Godfrey
+FALSE
+1949
+ACTOR
+Lew Ayres
+Johnny Belinda
+FALSE
+2024
+PICTURE
+
+Killers of the Flower Moon
+FALSE
+1971
+ACTOR
+James Earl Jones
+The Great White Hope
+FALSE
+2007
+PICTURE
+
+Letters from Iwo Jima
+FALSE
+1946
+PICTURE
+
+The Bells of St. Mary's
+FALSE
+1929
+ACTOR
+George Bancroft
+Thunderbolt
+FALSE
+1962
+ACTOR
+Spencer Tracy
+Judgment at Nuremberg
+FALSE
+1979
+ACTRESS
+Ingrid Bergman
+Autumn Sonata
+FALSE
+1940
+ACTRESS
+Greer Garson
+"Goodbye, Mr. Chips"
+FALSE
+2011
+ACTOR
+Jesse Eisenberg
+The Social Network
+FALSE
+2006
+PICTURE
+
+Munich
+FALSE
+1947
+ACTOR
+Laurence Olivier
+Henry V
+FALSE
+1993
+ACTRESS
+Emma Thompson
+Howards End
+TRUE
+1979
+PICTURE
+
+Heaven Can Wait
+FALSE
+2015
+PICTURE
+
+Selma
+FALSE
+2005
+PICTURE
+
+Ray
+FALSE
+1928
+ACTOR
+Emil Jannings
+The Last Command
+TRUE
+1937
+ACTRESS
+Luise Rainer
+The Great Ziegfeld
+TRUE
+1976
+PICTURE
+
+Dog Day Afternoon
+FALSE
+1951
+ACTOR
+Louis Calhern
+The Magnificent Yankee
+FALSE
+1954
+PICTURE
+
+From Here to Eternity
+TRUE
+1928
+PICTURE
+
+The Racket
+FALSE
+1929
+ACTRESS
+Betty Compson
+The Barker
+FALSE
+2022
+PICTURE
+
+CODA
+TRUE
+1998
+PICTURE
+
+Good Will Hunting
+FALSE
+1995
+ACTRESS
+Winona Ryder
+Little Women
+FALSE
+2008
+ACTOR
+Daniel Day-Lewis
+There Will Be Blood
+TRUE
+1984
+ACTRESS
+Julie Walters
+Educating Rita
+FALSE
+1997
+ACTOR
+Geoffrey Rush
+Shine
+TRUE
+1968
+PICTURE
+
+The Graduate
+FALSE
+2005
+ACTRESS
+Catalina Sandino Moreno
+Maria Full of Grace
+FALSE
+2006
+ACTRESS
+Charlize Theron
+North Country
+FALSE
+1932
+ACTOR
+Fredric March
+Dr. Jekyll and Mr. Hyde
+TRUE
+1967
+ACTOR
+Alan Arkin
+The Russians Are Coming The Russians Are Coming
+FALSE
+1974
+ACTOR
+Al Pacino
+Serpico
+FALSE
+2011
+PICTURE
+
+True Grit
+FALSE
+1963
+ACTOR
+Burt Lancaster
+Birdman of Alcatraz
+FALSE
+1954
+ACTRESS
+Audrey Hepburn
+Roman Holiday
+TRUE
+2008
+ACTOR
+Tommy Lee Jones
+In the Valley of Elah
+FALSE
+2013
+ACTRESS
+Naomi Watts
+The Impossible
+FALSE
+1965
+PICTURE
+
+Mary Poppins
+FALSE
+1968
+ACTOR
+Rod Steiger
+In the Heat of the Night
+TRUE
+1975
+ACTRESS
+Gena Rowlands
+A Woman under the Influence
+FALSE
+2015
+ACTOR
+Steve Carell
+Foxcatcher
+FALSE
+1952
+ACTOR
+Arthur Kennedy
+Bright Victory
+FALSE
+1966
+ACTOR
+Oskar Werner
+Ship of Fools
+FALSE
+2003
+ACTRESS
+Diane Lane
+Unfaithful
+FALSE
+1998
+ACTRESS
+Helena Bonham Carter
+The Wings of the Dove
+FALSE
+1946
+ACTOR
+Cornel Wilde
+A Song to Remember
+FALSE
+1937
+ACTRESS
+Carole Lombard
+My Man Godfrey
+FALSE
+1992
+ACTOR
+Anthony Hopkins
+The Silence of the Lambs
+TRUE
+1984
+PICTURE
+
+Terms of Endearment
+TRUE
+1938
+ACTRESS
+Irene Dunne
+The Awful Truth
+FALSE
+2008
+PICTURE
+
+Michael Clayton
+FALSE
+1954
+ACTRESS
+Leslie Caron
+Lili
+FALSE
+1966
+ACTRESS
+Samantha Eggar
+The Collector
+FALSE
+1977
+ACTOR
+William Holden
+Network
+FALSE
+1942
+ACTRESS
+Barbara Stanwyck
+Ball of Fire
+FALSE
+2016
+ACTOR
+Bryan Cranston
+Trumbo
+FALSE
+2000
+ACTRESS
+Annette Bening
+American Beauty
+FALSE
+1951
+PICTURE
+
+King Solomon's Mines
+FALSE
+1942
+PICTURE
+
+Suspicion
+FALSE
+1977
+PICTURE
+
+All the President's Men
+FALSE
+1944
+ACTRESS
+Ingrid Bergman
+For Whom the Bell Tolls
+FALSE
+1985
+PICTURE
+
+The Killing Fields
+FALSE
+2002
+PICTURE
+
+The Lord of the Rings: The Fellowship of the Ring
+FALSE
+1970
+ACTOR
+Peter O'Toole
+"Goodbye, Mr. Chips"
+FALSE
+1982
+ACTRESS
+Meryl Streep
+The French Lieutenant's Woman
+FALSE
+1947
+PICTURE
+
+It's a Wonderful Life
+FALSE
+1987
+ACTRESS
+Marlee Matlin
+Children of a Lesser God
+TRUE
+2022
+PICTURE
+
+Nightmare Alley
+FALSE
+1980
+PICTURE
+
+Norma Rae
+FALSE
+1945
+ACTOR
+Alexander Knox
+Wilson
+FALSE
+1954
+ACTRESS
+Maggie McNamara
+The Moon Is Blue
+FALSE
+2024
+ACTRESS
+Annette Bening
+Nyad
+FALSE
+1938
+ACTOR
+Charles Boyer
+Conquest
+FALSE
+1966
+ACTRESS
+Julie Andrews
+The Sound of Music
+FALSE
+1962
+ACTRESS
+Geraldine Page
+Summer and Smoke
+FALSE
+2018
+PICTURE
+
+Phantom Thread
+FALSE
+1952
+PICTURE
+
+Decision before Dawn
+FALSE
+1969
+ACTOR
+Ron Moody
+Oliver!
+FALSE
+1989
+PICTURE
+
+Dangerous Liaisons
+FALSE
+2005
+ACTOR
+Johnny Depp
+Finding Neverland
+FALSE
+1964
+ACTOR
+Rex Harrison
+Cleopatra
+FALSE
+2019
+PICTURE
+
+BlacKkKlansman
+FALSE
+1929
+ACTRESS
+Mary Pickford
+Coquette
+TRUE
+1935
+ACTRESS
+Claudette Colbert
+It Happened One Night
+TRUE
+2016
+ACTOR
+Leonardo DiCaprio
+The Revenant
+TRUE
+2010
+ACTOR
+Morgan Freeman
+Invictus
+FALSE
+1963
+ACTRESS
+Anne Bancroft
+The Miracle Worker
+TRUE
+1986
+ACTRESS
+Jessica Lange
+Sweet Dreams
+FALSE
+2018
+ACTRESS
+Meryl Streep
+The Post
+FALSE
+1929
+PICTURE
+
+The Patriot
+FALSE
+1968
+ACTOR
+Dustin Hoffman
+The Graduate
+FALSE
+1977
+ACTRESS
+Marie-Christine Barrault
+"Cousin, Cousine"
+FALSE
+1989
+ACTRESS
+Sigourney Weaver
+Gorillas in the Mist
+FALSE
+2009
+ACTRESS
+Anne Hathaway
+Rachel Getting Married
+FALSE
+1969
+ACTOR
+Alan Arkin
+The Heart Is a Lonely Hunter
+FALSE
+1955
+ACTOR
+Humphrey Bogart
+The Caine Mutiny
+FALSE
+2024
+ACTOR
+Jeffrey Wright
+American Fiction
+FALSE
+1954
+ACTOR
+Marlon Brando
+Julius Caesar
+FALSE
+1947
+PICTURE
+
+Henry V
+FALSE
+2004
+ACTRESS
+Keisha Castle-Hughes
+Whale Rider
+FALSE
+1986
+PICTURE
+
+Prizzi's Honor
+FALSE
+1941
+ACTOR
+Henry Fonda
+The Grapes of Wrath
+FALSE
+1985
+PICTURE
+
+A Soldier's Story
+FALSE
+2019
+PICTURE
+
+Black Panther
+FALSE
+2013
+ACTOR
+Joaquin Phoenix
+The Master
+FALSE
+1977
+ACTOR
+Robert De Niro
+Taxi Driver
+FALSE
+1999
+PICTURE
+
+Shakespeare in Love
+TRUE
+1958
+ACTOR
+Anthony Quinn
+Wild Is the Wind
+FALSE
+1944
+PICTURE
+
+Casablanca
+TRUE
+2008
+PICTURE
+
+Atonement
+FALSE
+1976
+ACTRESS
+Isabelle Adjani
+The Story of Adele H.
+FALSE
+1987
+ACTOR
+William Hurt
+Children of a Lesser God
+FALSE
+1951
+ACTRESS
+Anne Baxter
+All about Eve
+FALSE
+1989
+PICTURE
+
+Mississippi Burning
+FALSE
+1948
+ACTOR
+John Garfield
+Body and Soul
+FALSE
+1975
+ACTOR
+Dustin Hoffman
+Lenny
+FALSE
+2019
+ACTRESS
+Yalitza Aparicio
+Roma
+FALSE
+2004
+PICTURE
+
+Lost in Translation
+FALSE
+2009
+ACTOR
+Richard Jenkins
+The Visitor
+FALSE
+1964
+ACTOR
+Paul Newman
+Hud
+FALSE
+2003
+PICTURE
+
+The Lord of the Rings: The Two Towers
+FALSE
+2020
+PICTURE
+
+Jojo Rabbit
+FALSE
+1988
+ACTRESS
+Glenn Close
+Fatal Attraction
+FALSE
+1931
+ACTOR
+Lionel Barrymore
+A Free Soul
+TRUE
+1938
+ACTRESS
+Luise Rainer
+The Good Earth
+TRUE
+1958
+ACTRESS
+Deborah Kerr
+"Heaven Knows, Mr. Allison"
+FALSE
+1976
+ACTRESS
+Louise Fletcher
+One Flew over the Cuckoo's Nest
+TRUE
+1988
+ACTOR
+William Hurt
+Broadcast News
+FALSE
+2014
+PICTURE
+
+Philomena
+FALSE
+1947
+ACTRESS
+Rosalind Russell
+Sister Kenny
+FALSE
+1977
+ACTRESS
+Sissy Spacek
+Carrie
+FALSE
+2022
+PICTURE
+
+Don't Look Up
+FALSE
+1976
+ACTOR
+Maximilian Schell
+The Man in the Glass Booth
+FALSE
+1955
+ACTRESS
+Dorothy Dandridge
+Carmen Jones
+FALSE
+1929
+ACTRESS
+Jeanne Eagels
+The Letter
+FALSE
+1947
+ACTRESS
+Jennifer Jones
+Duel in the Sun
+FALSE
+2012
+PICTURE
+
+Hugo
+FALSE
+1979
+ACTRESS
+Jill Clayburgh
+An Unmarried Woman
+FALSE
+2013
+PICTURE
+
+Django Unchained
+FALSE
+1973
+ACTOR
+Michael Caine
+Sleuth
+FALSE
+2009
+PICTURE
+
+The Curious Case of Benjamin Button
+FALSE
+2020
+ACTRESS
+Renee Zellweger
+Judy
+TRUE
+1977
+PICTURE
+
+Network
+FALSE
+2009
+ACTOR
+Frank Langella
+Frost/Nixon
+FALSE
+1936
+ACTOR
+Paul Muni
+Black Fury
+FALSE
+2000
+ACTRESS
+Julianne Moore
+The End of the Affair
+FALSE
+1950
+ACTRESS
+Deborah Kerr
+"Edward, My Son"
+FALSE
+2015
+ACTRESS
+Reese Witherspoon
+Wild
+FALSE
+1977
+PICTURE
+
+Rocky
+TRUE
+1958
+ACTRESS
+Lana Turner
+Peyton Place
+FALSE
+1974
+PICTURE
+
+The Sting
+TRUE
+1930
+ACTRESS
+Norma Shearer
+Their Own Desire
+FALSE
+1991
+ACTOR
+Kevin Costner
+Dances With Wolves
+FALSE
+2023
+ACTRESS
+Andrea Riseborough
+To Leslie
+FALSE
+1980
+ACTOR
+Peter Sellers
+Being There
+FALSE
+1980
+PICTURE
+
+Breaking Away
+FALSE
+2018
+ACTRESS
+Margot Robbie
+"I, Tonya"
+FALSE
+2015
+PICTURE
+
+Whiplash
+FALSE
+2022
+PICTURE
+
+The Power of the Dog
+FALSE
+2024
+ACTRESS
+Sandra Huller
+Anatomy of a Fall
+FALSE
+2004
+ACTRESS
+Charlize Theron
+Monster
+TRUE
+2019
+ACTOR
+Bradley Cooper
+A Star Is Born
+FALSE
+1970
+PICTURE
+
+Z
+FALSE
+2004
+PICTURE
+
+Master and Commander: The Far Side of the World
+FALSE
+1988
+ACTRESS
+Cher
+Moonstruck
+TRUE
+1981
+PICTURE
+
+Ordinary People
+TRUE
+1941
+ACTOR
+Laurence Olivier
+Rebecca
+FALSE
+1957
+ACTOR
+Rock Hudson
+Giant
+FALSE
+2019
+ACTRESS
+Melissa McCarthy
+Can You Ever Forgive Me?
+FALSE
+1969
+ACTOR
+Cliff Robertson
+Charly
+TRUE
+1937
+ACTRESS
+Irene Dunne
+Theodora Goes Wild
+FALSE
+1997
+ACTRESS
+Kristin Scott Thomas
+The English Patient
+FALSE
+2015
+ACTRESS
+Rosamund Pike
+Gone Girl
+FALSE
+1958
+ACTRESS
+Elizabeth Taylor
+Raintree County
+FALSE
+1936
+ACTRESS
+Katharine Hepburn
+Alice Adams
+FALSE
+1983
+PICTURE
+
+Tootsie
+FALSE
+1992
+ACTOR
+Robin Williams
+The Fisher King
+FALSE
